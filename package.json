@@ -1,18 +1,18 @@
 {
-  "name": "@sermons/reveal-skel",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
+  "name": "@sermons/vessels",
+  "repository": "sermons/vessels",
+  "description": "Rom9:19-24 Vessels of Mercy",
   "keywords": [
     "slides",
-    "lectures",
+    "sermon",
     "talks",
-    "ppt"
+    "predestination"
   ],
   "version": "1.4.2",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
-    "pretty_url": "reveal-skel.seanho.com",
-    "cname": "reveal-skel.seanho.com",
+    "pretty_url": "vessels.seanho.com",
+    "cname": "vessels.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com:8443/",
       "id": "22bc761ffc97809b"
@@ -23,14 +23,20 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01",
+        "venue": "Church on Five",
+        "city": "Richmond",
+        "date": "2017-08-06",
+        "duration": 0
+      },
+      {
+        "venue": "First Chinese NA Baptist Church",
+        "city": "Vancouver",
+        "date": "2017-08-06",
         "duration": 0
       }
     ],
     "slides": [
-      "slides/sample.md"
+      "slides/slides.md"
     ],
     "css": [
       {
