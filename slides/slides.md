@@ -48,7 +48,8 @@ the riches of his glory for **vessels of mercy**,  <br/>
 which he has **prepared** beforehand for glory — 
 
 even us whom he has **called**,  <br/>
-not from the Jews only but also from the Gentiles?
+not from the Jews only  <br/>
+but also from the Gentiles?
 
 <div class="ref">
 Romans 9:23-24 (ESV) (p.4/4)
