@@ -2,6 +2,10 @@
 # Vessels of Mercy
 ## Romans 9:19-24
 
+>>>
++ [Piper](http://www.desiringgod.org/interviews/is-god-sovereign-over-my-free-will)
++ [Wikipedia](https://en.m.wikipedia.org/wiki/Argument_from_free_will)
+
 ---
 <!-- .slide: data-background="white" -->
 # Q0
