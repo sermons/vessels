@@ -8,7 +8,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Q0
+# Is God **unfair**?
 
 ---
 You will say to me then, <br/>
