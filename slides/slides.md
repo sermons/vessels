@@ -5,6 +5,12 @@
 >>>
 + [Piper](http://www.desiringgod.org/interviews/is-god-sovereign-over-my-free-will)
 + [Wikipedia](https://en.m.wikipedia.org/wiki/Argument_from_free_will)
++ free will, choice:
+  + repent, for kingdom is near
+  + choose this day, me + my family
++ suffering / theodicy: is evil God's fault? 
++ what if God predestined me to be bad? 
++ futile to preach the gospel? 
 
 ---
 <!-- .slide: data-background="white" -->
