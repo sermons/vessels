@@ -11,6 +11,18 @@
 + suffering / theodicy: is evil God's fault? 
 + what if God predestined me to be bad? 
 + futile to preach the gospel? 
++ theodicy (Mackie): omniscient, omnipotent, omni-benevolent
++ Irenaeus / Origien: world as school
+  + suffering necessary for human growth
+  + process theology: God himself growing
+    + becoming vs being
++ Augustine: evil from man's disobedience
++ e.g., Plantinga free will: 
+  + omnipotent !=> obligated to create contradictions
+  + e.g., stone too heavy to lift
+  + e.g., complete human autonomy
++ John 8:32 freedom in Christ
+  + slaves to sin (Rom 8? )
 
 ---
 <!-- .slide: data-background="white" -->
