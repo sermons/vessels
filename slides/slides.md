@@ -272,12 +272,20 @@ and to make known his **power**,
 has endured with much **patience**  <br/>
 **vessels of wrath** prepared for destruction,
 
-in order to make known  <br/>
-the **riches** of his glory for **vessels of mercy**,  <br/>
+<div class="ref">
+Romans 9:22 (ESV)
+</div>
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
+in order to make known <br/>
+the **riches** of his glory <br/>
+
+for **vessels of mercy**,  <br/>
 which he has **prepared** beforehand for glory?
 
 <div class="ref">
-Romans 9:22-23 (ESV)
+Romans 9:23 (ESV)
 </div>
 
 ---
