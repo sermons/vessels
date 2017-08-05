@@ -122,6 +122,32 @@ to himself as sons through Jesus Christ
 Ephesians 1:4-5 (ESV)
 </div>
 
+>>>
++ so if I'm already **chosen**,
+  + don't need to **do** anything to be saved?
++ need to **change** lifestyle, habits?
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-u0vgcIOQG08-forest_road_fork.jpg" -->
+**Cast away** from you all the **transgressions** <br/>
+that you have committed, <br/>
+and make yourselves a **new heart** <br/>
+and a **new spirit**!
+
+**Why** will you die, O house of Israel? <br/>
+For I have **no pleasure** in the death of anyone, <br/>
+declares the Lord God; so **turn**, and **live**.
+
+<div class="ref">
+Ezekiel 18:31-32 (ESV)
+</div>
+
+>>>
++ God **desires** that all may be saved
++ but we must **turn**:
+  + **away** from sin + selfishness
+  + **toward** God
+
 ---
 ### Q: God **desires** all to be saved, <br/> but **not** all will. **Why**?
 + **Calvinism**
