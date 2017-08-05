@@ -2,6 +2,12 @@
 # Vessels of Mercy
 ## Romans 9:19-24
 
+>>>
++ not full resolution
++ challenge 1 passage
++ attitude to Scripture
+  + How I react to hard passages
+
 ---
 <!-- .slide: data-background="white" -->
 # Does God **predestine** <br/> who is saved?
