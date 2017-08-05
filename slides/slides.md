@@ -3,10 +3,11 @@
 ## Romans 9:19-24
 
 >>>
-+ not full resolution
-+ challenge 1 passage
-+ attitude to Scripture
-  + How I react to hard passages
++ today's topic: **predestination**
++ not **full** resolution
++ **challenge** you w/1 passage
++ **attitude** to Scripture:
+  + How do I **react** to hard passages
 
 ---
 <!-- .slide: data-background="white" -->
@@ -78,6 +79,18 @@ Romans 9:23-24 (ESV) (p.4/4)
 1. God's **Mercy**: *Potter + Clay* <span class="ref">(v19-24)</span>
 
 ---
++ Q: God **desires** all to be saved,
+  + but not all **will** be saved. **Why**?
++ **Calvinism** (Reformed, most Baptist):
+  + **Limited** Atonement: only for the elect
+  + **Irresistable** Grace: sovereignty of God
+  + (Further reading: [John Piper](http://www.desiringgod.org/articles/what-we-believe-about-the-five-points-of-calvinism))
++ **Arminianism** (Wesley / Methodist, some Mennonite)
+  + **Resistable** Grace ("synergistic")
+  + **Unlimited** Atonement: effective to all who believe
+  + (Further reading: [Keith Drury](http://www.crivoice.org/arminianism.html))
+
+---
 Though they were **not yet born** <br/>
 and had **done nothing** either good or bad,
 
@@ -94,6 +107,7 @@ Romans 9:11,13 (ESV)
 >>>
 + subseq **nations**: Israel vs Edom
 + but also **indiv**
++ Q: **babies** who die?
 
 ---
 in order that God's **purpose of election** <br/>
