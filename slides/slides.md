@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
 # Vessels of Mercy
 ## Romans 9:19-24
 
@@ -65,7 +65,7 @@ Romans 9:23-24 (ESV) (p.4/4)
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" id="outline" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" id="outline" -->
 # Vessels of Mercy <span class="ref">(Rom9)</span>
 1. God's **Election** <span class="ref">(v11-13)</span>
 1. God's **Justice** <span class="ref">(v14-18)</span>
@@ -91,6 +91,11 @@ Romans 9:11-13 (ESV)
 >>>
 + subseq **nations**: Israel vs Edom
 + but also **indiv**
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" class="empty" -->
+
+>>>
 + [Piper](http://www.desiringgod.org/interviews/is-god-sovereign-over-my-free-will)
 + [Theodicy](https://en.wikipedia.org/wiki/Theodicy_and_the_Bible)
 + free will, choice:
@@ -113,4 +118,3 @@ Romans 9:11-13 (ESV)
 + John 8:32 freedom in Christ
   + slaves to sin (Rom 8? )
 + Rom 10:9-10 confess + believe
-
