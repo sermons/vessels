@@ -123,16 +123,15 @@ Ephesians 1:4-5 (ESV)
 </div>
 
 ---
-+ Q: God **desires** all to be saved,
-  + but not all **will** be saved. **Why**?
+### Q: God **desires** all to be saved, <br/> but **not** all will. **Why**?
 + **Calvinism**
   + (Reformed, most Baptist, e.g., [John Piper](http://www.desiringgod.org/articles/what-we-believe-about-the-five-points-of-calvinism))
-  + **Limited** Atonement: only for the elect
-  + **Irresistable** Grace: sovereignty of God
+  + **Limited** *Atonement*: only for the elect
+  + **Irresistable** *Grace*: sovereignty of God
 + **Arminianism**
   + (Methodist, some Mennonite, e.g., [Keith Drury](http://www.crivoice.org/arminianism.html))
-  + **Resistable** Grace ("synergistic")
-  + **Unlimited** Atonement: effective to all who believe
+  + **Resistable** *Grace* ("synergistic")
+  + **Unlimited** *Atonement*: effective to all who believe
 
 ---
 <!-- .slide: data-background="white" -->
