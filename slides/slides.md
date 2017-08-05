@@ -30,11 +30,14 @@
 <!-- .slide: data-background="white" -->
 # Does God **predestine** <br/> who is saved?
 
+[###](#/outline)
+<!-- .element: style="color:rgba(0,0,0,0.2)" -->
+
 >>>
 + if so, isn't that **unfair**?
   + **freedom** of own choices?
-+ then isn't it all **God's fault**?
-
++ if my **loved one** isn't saved,
+  + is that all **God's fault**?
 
 ---
 You will say to me then, <br/>
@@ -84,3 +87,10 @@ but also from the Gentiles?
 <div class="ref">
 Romans 9:23-24 (ESV) (p.4/4)
 </div>
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" id="outline" -->
+# Vessels of Mercy <span class="ref">(Rom9)</span>
+1. God's **Election** <span class="ref">(v11-13)</span>
+1. God's **Justice** <span class="ref">(v14-18)</span>
+1. God's **Mercy** <span class="ref">(v19-24)</span>
