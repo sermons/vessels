@@ -110,20 +110,8 @@ Ephesians 1:4-5 (ESV)
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
-What if God, desiring to show his **wrath**  <br/>
-and to make known his **power**,
-
-has endured with much **patience**  <br/>
-**vessels of wrath** prepared for destruction,
-
-in order to make known  <br/>
-the **riches** of his glory for **vessels of mercy**,  <br/>
-which he has **prepared** beforehand for glory?
-
-<div class="ref">
-Romans 9:22-23 (ESV)
-</div>
+<!-- .slide: data-background="white" -->
+# Q1
 
 ---
 ## outline: justice / theodicy
@@ -145,16 +133,120 @@ Romans 9:22-23 (ESV)
   + e.g., complete human autonomy
 
 ---
+What shall we say then? <br/>
+Is there **injustice** on God's part?
+
+<div class="ref">
+Romans 9:14 (ESV)
+</div>
+
+---
+By no means!  For he says to Moses, <br/>
+“I will have **mercy** on whom I have mercy, <br/>
+and I will have **compassion** <br/>
+on whom I have compassion.”
+
+So then it depends not on human **will** or **exertion**, <br/>
+but on God, who has **mercy**.
+
+<div class="ref">
+Romans 9:15-16 (ESV)
+</div>
+
+>>>
++ he who **wills** or he who **runs**
+
+---
+For by now I could have stretched out my hand <br/>
+and [...] **wiped** you off the earth.
+
+But I have raised you up for this very **purpose**, <br/>
+that I might show you my **power** and that <br/>
+my **name** might be proclaimed in all the earth.
+
+You still **set yourself** against my people <br/>
+and will not let them go.
+
+<div class="ref">
+Exodus 9:15-17 (NIV)
+</div>
+
+---
+<!-- .slide: data-background="white" -->
+# Q2
+
+---
 ## outline: mercy
 
 >>>
 + free will, choice:
   + repent, for kingdom is near
   + choose this day, me + my family
-
 + John 8:32 freedom in Christ
   + slaves to sin (Rom 8? )
 + Rom 10:9-10 confess + believe
+
+---
+You will say to me then, <br/>
+“Why does he still find **fault**?  <br/>
+For who can **resist** his will?”
+
+<div class="ref">
+Romans 9:19 (ESV)
+</div>
+
+---
+But who are **you**, O man,  <br/>
+to answer back to **God**?
+
+Will what is **molded** say to its molder,  <br/>
+“**Why** have you made me like this?”
+
+<div class="ref">
+Romans 9:20 (ESV)
+</div>
+
+---
+What if God, desiring to show his **wrath**  <br/>
+and to make known his **power**,
+
+has endured with much **patience**  <br/>
+**vessels of wrath** prepared for destruction,
+
+<div class="ref">
+Romans 9:22 (ESV)
+</div>
+
+---
+in order to make known  <br/>
+the riches of his glory for **vessels of mercy**,  <br/>
+which he has **prepared** beforehand for glory —
+
+even us whom he has **called**?
+
+<div class="ref">
+Romans 9:23-24 (ESV)
+</div>
+
+---
+<!-- .slide: data-background="white" -->
+# Q3
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
+What if God, desiring to show his **wrath**  <br/>
+and to make known his **power**,
+
+has endured with much **patience**  <br/>
+**vessels of wrath** prepared for destruction,
+
+in order to make known  <br/>
+the **riches** of his glory for **vessels of mercy**,  <br/>
+which he has **prepared** beforehand for glory?
+
+<div class="ref">
+Romans 9:22-23 (ESV)
+</div>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" class="empty" -->
