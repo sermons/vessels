@@ -2,30 +2,6 @@
 # Vessels of Mercy
 ## Romans 9:19-24
 
->>>
-+ [Piper](http://www.desiringgod.org/interviews/is-god-sovereign-over-my-free-will)
-+ [Wikipedia](https://en.m.wikipedia.org/wiki/Argument_from_free_will)
-+ free will, choice:
-  + repent, for kingdom is near
-  + choose this day, me + my family
-+ suffering / theodicy: is evil God's fault?
-+ what if God predestined me to be bad?
-+ futile to preach the gospel?
-  + Rom 10:14-15
-+ theodicy (Mackie): omniscient, omnipotent, omni-benevolent
-+ Irenaeus / Origien: world as school
-  + suffering necessary for human growth
-  + process theology: God himself growing
-    + becoming vs being
-+ Augustine: evil from man's disobedience
-+ e.g., Plantinga free will:
-  + omnipotent !=> obligated to create contradictions
-  + e.g., stone too heavy to lift
-  + e.g., complete human autonomy
-+ John 8:32 freedom in Christ
-  + slaves to sin (Rom 8? )
-+ Rom 10:9-10 confess + believe
-
 ---
 <!-- .slide: data-background="white" -->
 # Does God **predestine** <br/> who is saved?
@@ -94,3 +70,47 @@ Romans 9:23-24 (ESV) (p.4/4)
 1. God's **Election** <span class="ref">(v11-13)</span>
 1. God's **Justice** <span class="ref">(v14-18)</span>
 1. God's **Mercy** <span class="ref">(v19-24)</span>
+
+---
+Though they were **not yet born** <br/>
+and had **done nothing** either good or bad --
+
+in order that God's **purpose of election** <br/>
+might continue, not because of **works** <br/>
+but because of him who **calls** --
+
+she was told, <br/>
+“The **older** will serve the **younger**.” <br/>
+As it is written, <br/>
+“Jacob I **loved**, but Esau I **hated**.”
+
+<div class="ref">
+Romans 9:11-13 (ESV)
+</div>
+
+>>>
++ subseq **nations**: Israel vs Edom
++ but also **indiv**
++ [Piper](http://www.desiringgod.org/interviews/is-god-sovereign-over-my-free-will)
++ [Theodicy](https://en.wikipedia.org/wiki/Theodicy_and_the_Bible)
++ free will, choice:
+  + repent, for kingdom is near
+  + choose this day, me + my family
++ suffering / theodicy: is evil God's fault?
++ what if God predestined me to be bad?
++ futile to preach the gospel?
+  + Rom 10:14-15
++ theodicy (Mackie): omniscient, omnipotent, omni-benevolent
++ Irenaeus / Origien: world as school
+  + suffering necessary for human growth
+  + process theology: God himself growing
+    + becoming vs being
++ Augustine: evil from man's disobedience
++ e.g., Plantinga free will:
+  + omnipotent !=> obligated to create contradictions
+  + e.g., stone too heavy to lift
+  + e.g., complete human autonomy
++ John 8:32 freedom in Christ
+  + slaves to sin (Rom 8? )
++ Rom 10:9-10 confess + believe
+
