@@ -186,10 +186,37 @@ Exodus 9:15-17 (NIV)
   + not freedom from consequences
 + free will, choice:
   + repent, for kingdom is near
-  + choose this day, me + my family
-+ John 8:32 freedom in Christ
-  + slaves to sin (Rom 8? )
 + Rom 10:9-10 confess + believe
+
+---
+**Choose** this day whom you will serve, [...]
+
+But as for **me and my house**, <br/>
+we will serve the **Lord**.
+
+<div class="ref">
+Joshua 24:15 (ESV)
+</div>
+
+>>>
++ choice
+
+---
+If you **abide** in my word, <br/>
+you are truly my **disciples**,
+
+and you will know the **truth**, <br/>
+and the truth will set you **free**.
+
+<div class="ref">
+John 8:31-32 (ESV)
+</div>
+
+>>>
++ not honesty
++ God's truth
++ true freedom
++ slaves to sin (Rom 8? )
 
 ---
 You will say to me then, <br/>
