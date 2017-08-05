@@ -78,17 +78,9 @@ Romans 9:23-24 (ESV) (p.4/4)
 1. God's **Justice**: *Pharaoh* <span class="ref">(v14-18)</span>
 1. God's **Mercy**: *Potter + Clay* <span class="ref">(v19-24)</span>
 
----
-+ Q: God **desires** all to be saved,
-  + but not all **will** be saved. **Why**?
-+ **Calvinism** (Reformed, most Baptist):
-  + **Limited** Atonement: only for the elect
-  + **Irresistable** Grace: sovereignty of God
-  + (Further reading: [John Piper](http://www.desiringgod.org/articles/what-we-believe-about-the-five-points-of-calvinism))
-+ **Arminianism** (Wesley / Methodist, some Mennonite)
-  + **Resistable** Grace ("synergistic")
-  + **Unlimited** Atonement: effective to all who believe
-  + (Further reading: [Keith Drury](http://www.crivoice.org/arminianism.html))
+>>>
+1. **predestination**
+1. **theodicy** (problem of evil)
 
 ---
 Though they were **not yet born** <br/>
@@ -129,6 +121,18 @@ to himself as sons through Jesus Christ
 <div class="ref">
 Ephesians 1:4-5 (ESV)
 </div>
+
+---
++ Q: God **desires** all to be saved,
+  + but not all **will** be saved. **Why**?
++ **Calvinism**
+  + (Reformed, most Baptist, e.g., [John Piper](http://www.desiringgod.org/articles/what-we-believe-about-the-five-points-of-calvinism))
+  + **Limited** Atonement: only for the elect
+  + **Irresistable** Grace: sovereignty of God
++ **Arminianism**
+  + (Methodist, some Mennonite, e.g., [Keith Drury](http://www.crivoice.org/arminianism.html))
+  + **Resistable** Grace ("synergistic")
+  + **Unlimited** Atonement: effective to all who believe
 
 ---
 <!-- .slide: data-background="white" -->
