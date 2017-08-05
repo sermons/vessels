@@ -66,31 +66,48 @@ Romans 9:23-24 (ESV) (p.4/4)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" id="outline" -->
-# Vessels of Mercy <span class="ref">(Rom9)</span>
+## Vessels of Mercy <span class="ref">(Rom9)</span>
 1. God's **Election**: Jacob vs Esau <span class="ref">(v11-13)</span>
 1. God's **Justice**: Pharaoh <span class="ref">(v14-18)</span>
 1. God's **Mercy**: Potter + Clay <span class="ref">(v19-24)</span>
 
 ---
 Though they were **not yet born** <br/>
-and had **done nothing** either good or bad --
+and had **done nothing** either good or bad,
 
-in order that God's **purpose of election** <br/>
-might continue, not because of **works** <br/>
-but because of him who **calls** --
-
-she was told, <br/>
+... [Rebekah] was told, <br/>
 “The **older** will serve the **younger**.” <br/>
 As it is written, <br/>
 “Jacob I **loved**, but Esau I **hated**.”
 
 <div class="ref">
-Romans 9:11-13 (ESV)
+Romans 9:11,13 (ESV)
 </div>
 
 >>>
 + subseq **nations**: Israel vs Edom
 + but also **indiv**
+
+---
+in order that God's **purpose of election** <br/>
+might continue, not because of **works** <br/>
+but because of him who **calls**
+
+<div class="ref">
+Romans 9:12 (ESV)
+</div>
+
+---
+He **chose** us in him </br>
+before the **foundation** of the world, that </br>
+we should be **holy** and **blameless** before him.
+
+In love he **predestined** us for **adoption** </br>
+to himself as sons through Jesus Christ
+
+<div class="ref">
+Ephesians 1:4-5 (ESV)
+</div>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
@@ -109,14 +126,9 @@ Romans 9:22-23 (ESV)
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" class="empty" -->
+## outline: justice / theodicy
 
 >>>
-+ [Piper](http://www.desiringgod.org/interviews/is-god-sovereign-over-my-free-will)
-+ [Theodicy](https://en.wikipedia.org/wiki/Theodicy_and_the_Bible)
-+ free will, choice:
-  + repent, for kingdom is near
-  + choose this day, me + my family
 + suffering / theodicy: is evil God's fault?
 + what if God predestined me to be bad?
 + futile to preach the gospel?
@@ -131,7 +143,23 @@ Romans 9:22-23 (ESV)
   + omnipotent !=> obligated to create contradictions
   + e.g., stone too heavy to lift
   + e.g., complete human autonomy
+
+---
+## outline: mercy
+
+>>>
++ free will, choice:
+  + repent, for kingdom is near
+  + choose this day, me + my family
+
 + John 8:32 freedom in Christ
   + slaves to sin (Rom 8? )
 + Rom 10:9-10 confess + believe
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" class="empty" -->
+
+>>>
++ [Piper](http://www.desiringgod.org/interviews/is-god-sovereign-over-my-free-will)
++ [Theodicy](https://en.wikipedia.org/wiki/Theodicy_and_the_Bible)
 
