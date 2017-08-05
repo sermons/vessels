@@ -179,6 +179,8 @@ Exodus 9:15-17 (NIV)
 ## outline: mercy
 
 >>>
++ define free will:
+  + not freedom from consequences
 + free will, choice:
   + repent, for kingdom is near
   + choose this day, me + my family
