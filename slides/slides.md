@@ -67,9 +67,9 @@ Romans 9:23-24 (ESV) (p.4/4)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" id="outline" -->
 # Vessels of Mercy <span class="ref">(Rom9)</span>
-1. God's **Election** <span class="ref">(v11-13)</span>
-1. God's **Justice** <span class="ref">(v14-18)</span>
-1. God's **Mercy** <span class="ref">(v19-24)</span>
+1. God's **Election**: Jacob vs Esau <span class="ref">(v11-13)</span>
+1. God's **Justice**: Pharaoh <span class="ref">(v14-18)</span>
+1. God's **Mercy**: Potter + Clay <span class="ref">(v19-24)</span>
 
 ---
 Though they were **not yet born** <br/>
@@ -91,6 +91,22 @@ Romans 9:11-13 (ESV)
 >>>
 + subseq **nations**: Israel vs Edom
 + but also **indiv**
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
+What if God, desiring to show his **wrath**  <br/>
+and to make known his **power**,
+
+has endured with much **patience**  <br/>
+**vessels of wrath** prepared for destruction,
+
+in order to make known  <br/>
+the **riches** of his glory for **vessels of mercy**,  <br/>
+which he has **prepared** beforehand for glory?
+
+<div class="ref">
+Romans 9:22-23 (ESV)
+</div>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" class="empty" -->
@@ -118,3 +134,4 @@ Romans 9:11-13 (ESV)
 + John 8:32 freedom in Christ
   + slaves to sin (Rom 8? )
 + Rom 10:9-10 confess + believe
+
