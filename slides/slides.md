@@ -67,16 +67,17 @@ Romans 9:23-24 (ESV) (p.4/4)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" id="outline" -->
 ## Vessels of Mercy <span class="ref">(Rom9)</span>
-1. God's **Election**: Jacob vs Esau <span class="ref">(v11-13)</span>
-1. God's **Justice**: Pharaoh <span class="ref">(v14-18)</span>
-1. God's **Mercy**: Potter + Clay <span class="ref">(v19-24)</span>
+1. God's **Election**: *Jacob vs Esau* <span class="ref">(v11-13)</span>
+1. God's **Justice**: *Pharaoh* <span class="ref">(v14-18)</span>
+1. God's **Mercy**: *Potter + Clay* <span class="ref">(v19-24)</span>
 
 ---
 Though they were **not yet born** <br/>
 and had **done nothing** either good or bad,
 
 ... [Rebekah] was told, <br/>
-“The **older** will serve the **younger**.” <br/>
+“The **older** will serve the **younger**.”
+
 As it is written, <br/>
 “Jacob I **loved**, but Esau I **hated**.”
 
@@ -141,12 +142,14 @@ Romans 9:14 (ESV)
 </div>
 
 ---
-By no means!  For he says to Moses, <br/>
+By no means!  For he says to Moses,
+
 “I will have **mercy** on whom I have mercy, <br/>
 and I will have **compassion** <br/>
 on whom I have compassion.”
 
-So then it depends not on human **will** or **exertion**, <br/>
+So then it depends not on <br/>
+human **will** or **exertion**, <br/>
 but on God, who has **mercy**.
 
 <div class="ref">
@@ -221,7 +224,7 @@ Romans 9:22 (ESV)
 
 ---
 in order to make known  <br/>
-the riches of his glory for **vessels of mercy**,  <br/>
+the **riches** of his glory for **vessels of mercy**,  <br/>
 which he has **prepared** beforehand for glory —
 
 even us whom he has **called**?
