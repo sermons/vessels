@@ -461,7 +461,8 @@ Romans 9:23 (ESV)
 
 ---
 <!-- .slide: data-background="white" -->
-# What is my **purpose** on earth?
+# Can I **choose** my **purpose** and **destiny**?
+# An I ok with that? 
 
 >>>
 + vessels of **mercy**
