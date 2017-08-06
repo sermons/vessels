@@ -79,9 +79,9 @@ Romans 9:23-24 (ESV) (p.4/4)
 1. God's **Mercy**: *Potter + Clay* <span class="ref">(v19-24)</span>
 
 >>>
-1. **predestination**
-1. **theodicy** (problem of evil)
-1. **grace**
+1. **predestination**: God's sovereignty
+1. **theodicy**: why allow evil?
+1. **free will**: do I have autonomy?
 
 ---
 Though they were **not yet born** <br/>
@@ -300,32 +300,12 @@ Exodus 9:15-17 (NIV)
 + note: Pharaoh **chose** to oppose God
 
 ---
-If you **abide** in my word, <br/>
-you are truly my **disciples**,
-
-and you will know the **truth**, <br/>
-and the truth will set you **free**.
-
-<div class="ref">
-John 8:31-32 (ESV)
-</div>
-
->>>
-+ not "don't lie, you'll feel better"
-+ defn of **freedom**:
-  + not same as **honesty**
-  + not freedom from consequences
-+ knowing **God's** truth
-+ slaves to sin (Rom 8? )
-
-+ Hab1 why evil?
-
----
 <!-- .slide: data-background="white" -->
 # Why does God allow **evil** to flourish?
 
 >>>
 + Why **harden** Pharaoh's heart?
++ Further reading: Hab, Job
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
@@ -347,6 +327,25 @@ For who can **resist** his will?”
 <div class="ref">
 Romans 9:19 (ESV)
 </div>
+
+---
+If you **abide** in my word, <br/>
+you are truly my **disciples**,
+
+and you will know the **truth**, <br/>
+and the truth will set you **free**.
+
+<div class="ref">
+John 8:31-32 (ESV)
+</div>
+
+>>>
++ not "don't lie, you'll feel better"
++ defn of **freedom**:
+  + not same as **honesty**
+  + not freedom from consequences
++ knowing **God's** truth
++ slaves to sin (Rom 8? )
 
 ---
 But who are **you**, O man,  <br/>
