@@ -205,11 +205,12 @@ Ezekiel 18:31-32 (ESV)
 1. God's Mercy: Potter + Clay <span class="ref">(v19-24)</span>
 
 >>>
-+ suffering / theodicy: is evil God's fault?
-+ what if God predestined me to be bad?
-+ futile to preach the gospel?
-  + Rom 10:14-15
-
++ so God **predestined** us
++ chose to **love** one and **hate** another
+  + even before **birth**
+  + God looks at **babies**: Y/N/N/Y/N?
++ &rArr; that doesn't sound **fair**?
+  + that's what v14 asks:
 
 ---
 What shall we say then? <br/>
@@ -219,23 +220,60 @@ Is there **injustice** on God's part?
 Romans 9:14 (ESV)
 </div>
 
+>>>
++ **theodicy**: is God just?
++ why doesn't God just save **everyone**?
++ why allow **sin** / evil / suffering in the first place?
+
 ---
-By no means!  For he says to Moses,
+## Theodicy (Is God Just?)
++ The Problem of **Evil** <span class="ref">(Mackie)</span>: <br/>
+  If God is *omniscient*, *omnipotent*, and *omni-benevolent*,
+  why is there evil?
++ **Augustine**: evil is from *man's* disobedience
+  + *Plantinga*'s free will defense:
+  + Omnipotent doesn't mean obligated to create *contradictions*
+  + Full human *autonomy* contradicts God's *sovereignty*
++ **Irenaeus** / Origien: world as *school*
+  + Suffering necessary for human *growth*
+  + *Process* theology: even God grows (becoming vs being)
 
-“I will have **mercy** on whom I have mercy, <br/>
-and I will have **compassion** <br/>
-on whom I have compassion.”
+>>>
++ **omnipotent** &#8655; make logical **contradictions**
+  + stone too **heavy** for God to lift
++ **Irenaeus**: "there's always a **purpose**"
+  + e.g., lost **keys** &rArr; found $100
+  + what about **cancer**? Rape? Malicious cruelty?
++ evil not a **tool** for good
+  + Christ **died** to do away w/sin's penalty
+  + **conquered** sin + death
++ is it **unfair** that God saves one and not another?
 
-So then it depends not on <br/>
-human **will** or **exertion**, <br/>
-but on God, who has **mercy**.
+---
+Certainly not! For He says to Moses,
+
+“I will have **mercy** on whomever I will have mercy,
+and I will have **compassion**
+on whomever I will have compassion.”
+
+So then it is not of him who **wills**,
+nor of him who **runs**,
+but of God who shows **mercy**.
 
 <div class="ref">
-Romans 9:15-16 (ESV)
+Romans 9:15-16 (NKJV)
 </div>
 
 >>>
-+ he who **wills** or he who **runs**
++ we assume **most** people are good
+  + and **deserve** to be saved
++ or maybe even **50/50**
++ but because of God's perfect **holiness**
+  + and our utter **depravity**,
+  + our lust for **autonomy** apart from Him
++ so God's **justice** would be hell
+  + that we **live** + breathe is His mercy
++ God says the same even to wicked **Pharaoh**:
 
 ---
 For by now I could have stretched out my hand <br/>
@@ -251,6 +289,15 @@ and will not let them go.
 <div class="ref">
 Exodus 9:15-17 (NIV)
 </div>
+
+>>>
++ why **10** plagues in Egypt? 1 is enough?
+  + why not just make Egyptians **friendly**?
+  + or **eliminate** them altogether?
++ **God** allowed Pharaoh to rise to **power**
+  + allowed him to **live**
+  + **justice**: wipe off face of earth
++ note: Pharaoh **chose** to oppose God
 
 ---
 If you **abide** in my word, <br/>
@@ -271,26 +318,14 @@ John 8:31-32 (ESV)
 + knowing **God's** truth
 + slaves to sin (Rom 8? )
 
----
-## Theodicy (Is God Just?)
-+ The Problem of **Evil** <span class="ref">(Mackie)</span>: <br/>
-  If God is *omniscient*, *omnipotent*, and *omni-benevolent*,
-  why is there evil?
-+ **Augustine**: evil is from *man's* disobedience
-  + *Plantinga*'s free will defense:
-  + omnipotent !=> obligated to create contradictions
-+ **Irenaeus** / Origien: world as *school*
-  + Suffering necessary for human *growth*
-  + *Process* theology: even God grows
-    (becoming vs being)
-
->>>
-  + e.g., stone too heavy to lift
-  + e.g., complete human autonomy
++ Hab1 why evil?
 
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# Why does God allow **evil** to flourish?
+
+>>>
++ Why **harden** Pharaoh's heart?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
