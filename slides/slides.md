@@ -76,7 +76,7 @@ Romans 9:23-24 (ESV) (p.4/4)
 ## Vessels of Mercy <span class="ref">(Rom9)</span>
 1. God's **Election**: *Jacob vs Esau* <span class="ref">(v11-13)</span>
 1. God's **Justice**: *Pharaoh* <span class="ref">(v14-18)</span>
-1. God's **Mercy**: *Potter + Clay* <span class="ref">(v19-24)</span>
+1. God's **Mercy**: *Clay Pot* <span class="ref">(v19-24)</span>
 
 >>>
 1. **predestination**: God's sovereignty
@@ -206,7 +206,7 @@ Ezekiel 18:31-32 (ESV)
 ## Vessels of Mercy <span class="ref">(Rom9)</span>
 1. God's Election: Jacob vs Esau <span class="ref">(v11-13)</span>
 1. **God's Justice**: *Pharaoh* <span class="ref">(v14-18)</span>
-1. God's Mercy: Potter + Clay <span class="ref">(v19-24)</span>
+1. God's Mercy: Clay Pot <span class="ref">(v19-24)</span>
 
 >>>
 + so God **predestined** us
@@ -318,15 +318,16 @@ Exodus 9:15-17 (NIV)
 ## Vessels of Mercy <span class="ref">(Rom9)</span>
 1. God's Election: Jacob vs Esau <span class="ref">(v11-13)</span>
 1. God's Justice: Pharaoh <span class="ref">(v14-18)</span>
-1. **God's Mercy**: *Potter + Clay* <span class="ref">(v19-24)</span>
+1. **God's Mercy**: *Clay Pot* <span class="ref">(v19-24)</span>
 
 >>>
 + predestination: God **chose** us
   + not because of anything we've **done**
 + theodicy: **evil** exists bc **man's** sin
-  + God's **just** wrath held back by His **mercy**
+  + God's **just** wrath, withheld by **mercy**
 + autonomy: aren't I **free** to make own choices?
-  + not **fair** if didn't make my own choice
+  + what is **free will**?
++ continuing in v19:
 
 ---
 You will say to me then, <br/>
@@ -336,6 +337,27 @@ For who can **resist** his will?”
 <div class="ref">
 Romans 9:19 (ESV)
 </div>
+
+>>>
++ not the one who **wills** or **runs**
+  + but God who shows **mercy**
++ so I have no **say**?
++ don't I have **autonomy** to direct my own life?
+
+---
+## Self-Actualisation vs. Self-Governance
+
+![Maslow's Hierarchy](static/img/MaslowsHierarchyOfNeeds.svg)
+<!-- .element: class="stretch" -->
+
+>>>
++ Maslow intended **self-actualisation** to be:
+  + realising one's fullest **potential**
+  + might be **externally** defined
++ but often **misinterpreted** as:
+  + achieving my **dreams**
+  + **self**-defined goals (e.g., couch potato)
++ **autonomy**: self-law
 
 ---
 But who are **you**, O man,  <br/>
@@ -347,6 +369,10 @@ Will what is **molded** say to its molder,  <br/>
 <div class="ref">
 Romans 9:20 (ESV)
 </div>
+
+>>>
++ **don't** have autonomy to govern
++ potential defined by **Creator**
 
 ---
 If you **abide** in my word, <br/>
