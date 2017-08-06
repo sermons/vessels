@@ -4,8 +4,8 @@
 
 >>>
 + today's topic: **predestination**
-+ not **full** resolution
-+ **challenge** you w/1 passage
+  + not **full** resolution
++ whiff of deep **fragrance** in 1 passage
 + **attitude** to Scripture:
   + How do I **react** to hard passages
 
@@ -18,9 +18,9 @@
 
 >>>
 + if so, isn't that **unfair**?
-  + **freedom** of own choices?
-+ if my **loved one** isn't saved,
-  + is that all **God's fault**?
+  + **freedom** to make own choices?
++ if my **loved one** is unrepentant
+  + isn't that all **God's fault**?
 
 ---
 You will say to me then, <br/>
@@ -79,6 +79,7 @@ Romans 9:23-24 (ESV) (p.4/4)
 1. God's **Mercy**: *Clay Pot* <span class="ref">(v19-24)</span>
 
 >>>
+v11-24: 3 **questions**, 3 **examples**
 1. **predestination**: God's sovereignty
 1. **theodicy**: why allow evil?
 1. **autonomy**: do I have freedom to make my own choices?
