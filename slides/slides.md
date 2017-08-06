@@ -194,7 +194,7 @@ Ezekiel 18:31-32 (ESV)
 
 >>>
 + before Jacob/Esau had **done** anything
-+ God **blessed** me:
++ God loves me, **blessed** me:
   + I must have done something **right**?
 
 ---
@@ -209,16 +209,7 @@ Ezekiel 18:31-32 (ESV)
 + what if God predestined me to be bad?
 + futile to preach the gospel?
   + Rom 10:14-15
-+ theodicy (Mackie): omniscient, omnipotent, omni-benevolent
-+ Irenaeus / Origien: world as school
-  + suffering necessary for human growth
-  + process theology: God himself growing
-    + becoming vs being
-+ Augustine: evil from man's disobedience
-+ e.g., Plantinga free will:
-  + omnipotent !=> obligated to create contradictions
-  + e.g., stone too heavy to lift
-  + e.g., complete human autonomy
+
 
 ---
 What shall we say then? <br/>
@@ -262,6 +253,42 @@ Exodus 9:15-17 (NIV)
 </div>
 
 ---
+If you **abide** in my word, <br/>
+you are truly my **disciples**,
+
+and you will know the **truth**, <br/>
+and the truth will set you **free**.
+
+<div class="ref">
+John 8:31-32 (ESV)
+</div>
+
+>>>
++ not "don't lie, you'll feel better"
++ defn of **freedom**:
+  + not same as **honesty**
+  + not freedom from consequences
++ knowing **God's** truth
++ slaves to sin (Rom 8? )
+
+---
+## Theodicy (Is God Just?)
++ The Problem of **Evil** <span class="ref">(Mackie)</span>: <br/>
+  If God is *omniscient*, *omnipotent*, and *omni-benevolent*,
+  why is there evil?
++ **Augustine**: evil is from *man's* disobedience
+  + *Plantinga*'s free will defense:
+  + omnipotent !=> obligated to create contradictions
++ **Irenaeus** / Origien: world as *school*
+  + Suffering necessary for human *growth*
+  + *Process* theology: even God grows
+    (becoming vs being)
+
+>>>
+  + e.g., stone too heavy to lift
+  + e.g., complete human autonomy
+
+---
 <!-- .slide: data-background="white" -->
 # Q2
 
@@ -273,8 +300,6 @@ Exodus 9:15-17 (NIV)
 1. **God's Mercy**: *Potter + Clay* <span class="ref">(v19-24)</span>
 
 >>>
-+ define free will:
-  + not freedom from consequences
 + free will, choice:
   + repent, for kingdom is near
 + Rom 10:9-10 confess + believe
@@ -291,23 +316,6 @@ Joshua 24:15 (ESV)
 
 >>>
 + choice
-
----
-If you **abide** in my word, <br/>
-you are truly my **disciples**,
-
-and you will know the **truth**, <br/>
-and the truth will set you **free**.
-
-<div class="ref">
-John 8:31-32 (ESV)
-</div>
-
->>>
-+ not honesty
-+ God's truth
-+ true freedom
-+ slaves to sin (Rom 8? )
 
 ---
 You will say to me then, <br/>
