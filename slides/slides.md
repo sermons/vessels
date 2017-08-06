@@ -81,7 +81,7 @@ Romans 9:23-24 (ESV) (p.4/4)
 >>>
 1. **predestination**: God's sovereignty
 1. **theodicy**: why allow evil?
-1. **free will**: do I have autonomy?
+1. **autonomy**: do I have freedom to make my own choices?
 
 ---
 Though they were **not yet born** <br/>
@@ -144,8 +144,7 @@ Ephesians 1:4-5 (ESV)
 + for **adoption**: emph **grace**
   + not: predestined to **choose** Him
 + so if I'm already **chosen**,
-  + don't need to **do** anything to be saved?
-+ do **whatever** I want, since
+  + do **whatever** I want, since
   + his calling is **irrevocable**?
 
 ---
@@ -184,18 +183,18 @@ Ezekiel 18:31-32 (ESV)
 >>>
 + debate ultimately mostly **semantic**
 + Bible is **clear** on:
-  + God's **sovereign** authority over all
-  + God's **character** desiring to show grace
+  + God's sovereign **authority** over all
+  + God's **character**: desire grace
   + Man's **response**: repent, follow
 
 ---
 <!-- .slide: data-background="white" -->
-# **Why** has God shown **mercy** to me?
+# **Why** has God shown **mercy** <br/> to me?
 
 >>>
 + before Jacob/Esau had **done** anything
 + God loves me, **blessed** me:
-  + I must have done something **right**?
+  + I must have **done** sth right?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
@@ -227,23 +226,25 @@ Romans 9:14 (ESV)
 
 ---
 ## Theodicy (Is God Just?)
-+ The Problem of **Evil** <span class="ref">(Mackie)</span>: <br/>
++ Q <span class="ref">(Mackie)</span>:
   If God is *omniscient*, *omnipotent*, and *omni-benevolent*,
   why is there evil?
 + **Augustine**: evil is from *man's* disobedience
-  + *Plantinga*'s free will defense:
-  + Omnipotent doesn't mean obligated to create *contradictions*
-  + Full human *autonomy* contradicts God's *sovereignty*
+  + e.g., *Plantinga*'s free will defense:
+  + Omnipotent, but not necc. make *contradictions*
+  + Full human *autonomy* &rArr;&lArr; God's *sovereignty*
 + **Irenaeus** / Origien: world as *school*
   + Suffering necessary for human *growth*
-  + *Process* theology: even God grows (becoming vs being)
+  + e.g., *Swinburne*: free will &rArr; learn from mistakes
+  + but see, e.g., Dostoyevsky, <i>The Brothers Karamazov</i>
 
 >>>
++ Problem of Evil (Mackie, 1955)
 + **omnipotent** &#8655; make logical **contradictions**
   + stone too **heavy** for God to lift
 + **Irenaeus**: "there's always a **purpose**"
   + e.g., lost **keys** &rArr; found $100
-  + what about **cancer**? Rape? Malicious cruelty?
+  + what about **cancer**? Holocaust? Malicious cruelty?
 + evil not a **tool** for good
   + Christ **died** to do away w/sin's penalty
   + **conquered** sin + death
@@ -315,9 +316,12 @@ Exodus 9:15-17 (NIV)
 1. **God's Mercy**: *Potter + Clay* <span class="ref">(v19-24)</span>
 
 >>>
-+ free will, choice:
-  + repent, for kingdom is near
-+ Rom 10:9-10 confess + believe
++ predestination: God **chose** us
+  + not because of anything we've **done**
++ theodicy: **evil** exists bc **man's** sin
+  + God's **just** wrath held back by His **mercy**
++ autonomy: aren't I **free** to make own choices?
+  + not **fair** if didn't make my own choice
 
 ---
 You will say to me then, <br/>
@@ -326,6 +330,17 @@ For who can **resist** his will?”
 
 <div class="ref">
 Romans 9:19 (ESV)
+</div>
+
+---
+But who are **you**, O man,  <br/>
+to answer back to **God**?
+
+Will what is **molded** say to its molder,  <br/>
+“**Why** have you made me like this?”
+
+<div class="ref">
+Romans 9:20 (ESV)
 </div>
 
 ---
@@ -346,17 +361,6 @@ John 8:31-32 (ESV)
   + not freedom from consequences
 + knowing **God's** truth
 + slaves to sin (Rom 8? )
-
----
-But who are **you**, O man,  <br/>
-to answer back to **God**?
-
-Will what is **molded** say to its molder,  <br/>
-“**Why** have you made me like this?”
-
-<div class="ref">
-Romans 9:20 (ESV)
-</div>
 
 ---
 What if God, desiring to show his **wrath**  <br/>
