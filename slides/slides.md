@@ -98,6 +98,10 @@ As it is written, <br/>
 Romans 9:11,13 (ESV)
 </div>
 
+<div class="caption">
+(img: <i>Jacob and Esau</i>, Phillip Medhurst Bible 131.  Kidderminster, England)
+</div>
+
 >>>
 + subseq **nations**: Israel vs Edom
   + but also as **indiv** (even fetuses!)
