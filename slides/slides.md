@@ -81,6 +81,7 @@ Romans 9:23-24 (ESV) (p.4/4)
 >>>
 1. **predestination**
 1. **theodicy** (problem of evil)
+1. **grace**
 
 ---
 Though they were **not yet born** <br/>
@@ -99,7 +100,7 @@ Romans 9:11,13 (ESV)
 >>>
 + subseq **nations**: Israel vs Edom
 + but also **indiv**
-+ Q: **babies** who die?
++ **fair**? (theodicy, pt2)
 
 ---
 in order that God's **purpose of election** <br/>
@@ -309,9 +310,17 @@ even us whom he has **called**?
 Romans 9:23-24 (ESV)
 </div>
 
+>>>
++ "vessel": bowl: **utility**, body
++ **receive** mercy for **purpose**
+  + of **showing** mercy to others:
+
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# Is it **fair** that **any** are saved?
+
+>>>
++ vessels of **mercy**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
