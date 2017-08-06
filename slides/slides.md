@@ -372,13 +372,36 @@ Romans 9:20 (ESV)
 
 >>>
 + **don't** have autonomy to govern
-+ potential defined by **Creator**
+  + potential defined by **Creator**
++ in fact, because of **sin**,
+  + **impossible** to be truly free:
 
 ---
-What if God, desiring to show his **wrath**  <br/>
-and to make known his **power**,
+For when you were **slaves** of **sin**, <br/>
+you were **free** in regard to **righteousness**.
 
-has endured with much **patience**  <br/>
+What **fruit** did you have then <br/>
+in the things of which you are now **ashamed**? <br/>
+For the end of those things is **death**.
+
+<div class="ref">
+Romans 6:20-21 (NKJV)
+</div>
+
+>>>
++ not "free will" as choosing to lift a **pen**
++ "freedom" as choosing which **rules** to follow
+  + which **religion** appeals to me
++ seeking **autonomy** apart from God
+  + **freedom** from caring about His righteousness
++ &rArr; this is actually **slavery**!
+  + not naturally **moral** / ethical / altruistic
+  + but **selfish** / hedonistic / rebellious
+  + result is self-**destructive**
++ to those who
+
+---
+[God] has endured with much **patience**  <br/>
 **vessels of wrath** prepared for destruction,
 
 <div class="ref">
@@ -386,14 +409,23 @@ Romans 9:22 (ESV)
 </div>
 
 ---
-in order to make known  <br/>
-the **riches** of his glory for **vessels of mercy**,  <br/>
-which he has **prepared** beforehand for glory —
+But now having been set **free** from **sin**, <br/>
+and having become **slaves** of **God**,
 
-even us whom he has **called**?
+you have your fruit to **holiness**, <br/>
+and the end, everlasting **life**.
 
 <div class="ref">
-Romans 9:23-24 (ESV)
+Romans 6:20-21 (NKJV)
+</div>
+
+---
+in order to make known  <br/>
+the **riches** of his glory for **vessels of mercy**,  <br/>
+which he has **prepared** beforehand for glory
+
+<div class="ref">
+Romans 9:23 (ESV)
 </div>
 
 >>>
@@ -426,10 +458,12 @@ in order to make known <br/>
 the **riches** of his glory <br/>
 
 for **vessels of mercy**,  <br/>
-which he has **prepared** beforehand for glory?
+which he has **prepared** beforehand for glory --
+
+even **us** whom he has **called**?
 
 <div class="ref">
-Romans 9:23 (ESV)
+Romans 9:23-24 (ESV)
 </div>
 
 ---
