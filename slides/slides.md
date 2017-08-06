@@ -103,13 +103,10 @@ Romans 9:11,13 (ESV)
   + but also as **indiv** (even fetuses!)
 + "hated": just "love **less**", skip over?
   + **opposition**, enemy, reject
-+ **fair**? (theodicy, pt2)
-  + internal sense of **justice**:
-    + based on indiv **choice** / action
-  + &rArr; if **blessed**,
-    + must have **done** sth good
-+ **why** God mentioned this?
-  + skipped over **v12**:
++ **fair**? (theodicy, pt2) **justice**
+  + based on indiv **choice** / action
+  + **blessed** &rArr; must've **done** sth
++ **why** God mentioned this? **v12**:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
@@ -170,7 +167,7 @@ Ezekiel 18:31-32 (ESV)
 + but we must **turn**: habits, **lifestyle**
   + **away** from sin + selfishness
   + **toward** God
-+ so does that **contradict** predestination?
++ **contradicts** predestination?
 
 ---
 ### Q: God **desires** all to be saved, <br/> but **not** all will be. **Why**?
@@ -195,14 +192,18 @@ Ezekiel 18:31-32 (ESV)
 + Man's **response**: repent + follow
   + "*Turn* and live!" <span class="ref">(Ez18:32, Rom 10:9-10)</span>
 
+>>>
++ so do need to share gospel
+
 ---
 <!-- .slide: data-background="white" -->
 # **Why** has God shown **mercy** <br/> to me?
 
 >>>
-+ before Jacob/Esau had **done** anything
++ before Jacob/Esau **did** anything
 + God loves me, **blessed** me:
   + I must have **done** sth right?
+  + Nope!
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
@@ -249,13 +250,13 @@ Romans 9:14 (ESV)
 
 >>>
 + Problem of Evil (Mackie, 1955)
-+ **omnipotent** &#8655; make logical **contradictions**
++ **omnipotent**: doesn't mean He creates logical **contradictions**
   + stone too **heavy** for God to lift
 + **Irenaeus**: "there's always a **purpose**"
   + e.g., lost **keys** &rArr; found $100
   + what about **cancer**? Holocaust? Malicious cruelty?
 + evil not a **tool** for good
-  + Christ **died** to do away w/sin's penalty
+  + Christ **died**: pay penalty
   + **conquered** sin + death
 + is it **unfair** that God saves one and not another?
 
@@ -281,10 +282,10 @@ Romans 9:15-16 (NKJV)
 + or maybe even **50/50**
 + but because of God's perfect **holiness**
   + and our utter **depravity**,
-  + our lust for **autonomy** apart from Him
+  + lust for **autonomy** from Him
 + so God's **justice** would be hell
   + that we **live** + breathe is His mercy
-+ God says the same even to wicked **Pharaoh**:
++ What He said to wicked **Pharaoh**:
 
 ---
 <!-- .slide data-background-image="https://sermons.seanho.com/img/bg/Egypt_Giza_Sphinx.jpg" -->
@@ -307,8 +308,8 @@ Exodus 9:15-17 (NIV)
 </div>
 
 >>>
-+ why **10** plagues in Egypt? 1 is enough?
-  + why not just make Egyptians **friendly**?
++ why **10** plagues in Egypt? 1 enough?
+  + just make Egyptians **friendly**?
   + or **eliminate** them altogether?
 + **God** allowed Pharaoh to rise to **power**
   + allowed him to **live**
@@ -332,12 +333,12 @@ Exodus 9:15-17 (NIV)
 
 >>>
 + predestination: God **chose** us
-  + not because of anything we've **done**
+  + not bc anything we've **done**
 + theodicy: **evil** exists bc **man's** sin
-  + God's **just** wrath, withheld by **mercy**
-+ autonomy: aren't I **free** to make own choices?
-  + what is **free will**?
-+ continuing in v19:
+  + God's **just** wrath
+  + held back by His **mercy**
++ autonomy: **free**, make own choices?
+  + what is **free will**? &rArr; v19:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
@@ -353,7 +354,7 @@ Romans 9:19 (ESV)
 + not the one who **wills** or **runs**
   + but God who shows **mercy**
 + so I have no **say**?
-+ don't I have **autonomy** to direct my own life?
++ **autonomy** to direct own life?
 
 ---
 ## Self-Actualisation <br/> vs. Self-Governance
@@ -362,13 +363,13 @@ Romans 9:19 (ESV)
 <!-- .element: style="height:10em" -->
 
 >>>
-+ Maslow intended **self-actualisation** to be:
++ Maslow intended **self-actualisation**:
   + realising one's fullest **potential**
-  + might be **externally** defined
+  + could be **externally** defined
 + but often **misinterpreted** as:
-  + achieving my **dreams**
-  + **self**-defined goals (e.g., couch potato)
-+ **autonomy**: self-law
+  + achieving my **dreams**, goals
+  + **self**-defined (couch potato)
++ **auto-nomos**: self-law
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xEy9QNUCdRI-potter.jpg" -->
@@ -403,14 +404,14 @@ Romans 6:20-21 (NKJV)
 
 >>>
 + not "free will" as choosing to lift a **pen**
-+ "freedom" as choosing which **rules** to follow
++ "freedom" of choice of **rules**
   + which **religion** appeals to me
-+ seeking **autonomy** apart from God
-  + **freedom** from caring about His righteousness
++ **autonomy** apart from God: free from
+  + caring about His **righteousness**
 + &rArr; this is actually **slavery**!
-  + not naturally **moral** / ethical / altruistic
-  + but **selfish** / hedonistic / rebellious
-  + result is self-**destructive**
++ not natur. **moral** / ethical / altruistic
+  + but **selfish** / hedonistic / rebel
+  + &rArr; result is self-**destructive**
 + this is **default** state of mankind:
 
 ---
@@ -448,11 +449,11 @@ Romans 9:23 (ESV)
   + only by His **mercy**
 + "vessel": bowl: **utility**, body, purpose
 + what is our **purpose**?
-  + not: realize own **goals**
-    + achievement, happiness
-    + legacy, change world
-  + but: demonstrate how **merciful** God is
-    + **glory** goes to God
++ not: realize own **goals**
+  + achievement, happiness
+  + legacy, change world
++ but: demonstrate how **merciful** God is
+  + **glory** goes to God
 
 ---
 <!-- .slide: data-background="white" -->
@@ -489,7 +490,4 @@ Romans 9:23-24 (ESV)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" class="empty" -->
-
->>>
-+ [Theodicy](https://en.wikipedia.org/wiki/Theodicy_and_the_Bible)
 
