@@ -182,10 +182,15 @@ Ezekiel 18:31-32 (ESV)
 
 >>>
 + debate ultimately mostly **semantic**
-+ Bible is **clear** on:
-  + God's sovereign **authority** over all
-  + God's **character**: desire grace
-  + Man's **response**: repent, follow
+
+---
+## The Bible is clear on:
++ God's sovereign **authority**:
+  + God's purpose of *election* (Rom 9:12)
++ God's **character** desires to show grace:
+  + No *pleasure* in the death of anyone (Ez18:32)
++ Man's **response**: repent + follow
+  + *Turn* and live (Ez18:32, Rom 10:9-10)
 
 ---
 <!-- .slide: data-background="white" -->
