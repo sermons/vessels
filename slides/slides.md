@@ -220,7 +220,7 @@ Ezekiel 18:31-32 (ESV)
   + that's what v14 asks:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
 What shall we say then? <br/>
 Is there **injustice** on God's part?
 
@@ -260,6 +260,7 @@ Romans 9:14 (ESV)
 + is it **unfair** that God saves one and not another?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 Certainly not! For He says to Moses,
 
 “I will have **mercy** on whomever I will have mercy,
@@ -286,6 +287,7 @@ Romans 9:15-16 (NKJV)
 + God says the same even to wicked **Pharaoh**:
 
 ---
+<!-- .slide data-background-image="https://sermons.seanho.com/img/bg/Egypt_Giza_Sphinx.jpg" -->
 For by now I could have stretched out my hand <br/>
 and [...] **wiped** you off the earth.
 
@@ -298,6 +300,10 @@ and will not let them go.
 
 <div class="ref">
 Exodus 9:15-17 (NIV)
+</div>
+
+<div class="caption">
+(img: &copy; 2005 @Hamish2k, CC-BY-SA 3.0)
 </div>
 
 >>>
@@ -334,6 +340,7 @@ Exodus 9:15-17 (NIV)
 + continuing in v19:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
 You will say to me then, <br/>
 “Why does he still find **fault**?  <br/>
 For who can **resist** his will?”
@@ -364,6 +371,7 @@ Romans 9:19 (ESV)
 + **autonomy**: self-law
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xEy9QNUCdRI-potter.jpg" -->
 But who are **you**, O man,  <br/>
 to answer back to **God**?
 
@@ -381,6 +389,7 @@ Romans 9:20 (ESV)
   + **impossible** to be truly free:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
 For when you were **slaves** of **sin**, <br/>
 you were **free** in regard to **righteousness**.
 
@@ -405,6 +414,7 @@ Romans 6:20-21 (NKJV)
 + this is **default** state of mankind:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ndsRLeQBlsA-dark_clouds.jpg" -->
 [God] has endured with much **patience**  <br/>
 **vessels of wrath** prepared for destruction,
 
@@ -420,6 +430,7 @@ Romans 9:22 (ESV)
 + but God **withholds** for a time: why?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-iQWvVYMtv1k-hands.jpg" -->
 in order to make known  <br/>
 the **riches** of his glory
 
