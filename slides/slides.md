@@ -398,7 +398,7 @@ Romans 6:20-21 (NKJV)
   + not naturally **moral** / ethical / altruistic
   + but **selfish** / hedonistic / rebellious
   + result is self-**destructive**
-+ to those who
++ this is **default** state of mankind:
 
 ---
 [God] has endured with much **patience**  <br/>
@@ -408,9 +408,17 @@ Romans 6:20-21 (NKJV)
 Romans 9:22 (ESV)
 </div>
 
+>>>
++ just as with **Pharaoh**
++ God could stretch His **hand**
+  + **wipe** off the face of the earth
++ **ultimate** destination is still **perdition**
++ but God **withholds** for a time: why?
+
 ---
 in order to make known  <br/>
-the **riches** of his glory for **vessels of mercy**,  <br/>
+the **riches** of his glory <br/>
+for **vessels of mercy**,  <br/>
 which he has **prepared** beforehand for glory
 
 <div class="ref">
@@ -418,9 +426,17 @@ Romans 9:23 (ESV)
 </div>
 
 >>>
-+ "vessel": bowl: **utility**, body
-+ **receive** mercy for **purpose**
-  + of **showing** mercy to others:
++ to highlight that we are saved
+  + not by our own **efforts**
+  + not bc we are more **worthy**
+  + only by His **mercy**
++ "vessel": bowl: **utility**, body, purpose
++ what is our **purpose**?
+  + not: realize own **goals**
+    + achievement, happiness
+    + legacy, change world
+  + but: demonstrate how **merciful** God is
+    + **glory** goes to God
 
 ---
 <!-- .slide: data-background="white" -->
