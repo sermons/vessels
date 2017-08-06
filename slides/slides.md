@@ -99,8 +99,16 @@ Romans 9:11,13 (ESV)
 
 >>>
 + subseq **nations**: Israel vs Edom
-+ but also **indiv**
+  + but also as **indiv** (even fetuses!)
++ "hated": just "love **less**", skip over?
+  + **opposition**, enemy, reject
 + **fair**? (theodicy, pt2)
+  + internal sense of **justice**:
+    + based on indiv **choice** / action
+  + &rArr; if **blessed**,
+    + must have **done** sth good
++ **why** God mentioned this?
+  + skipped over **v12**:
 
 ---
 in order that God's **purpose of election** <br/>
@@ -110,6 +118,13 @@ but because of him who **calls**
 <div class="ref">
 Romans 9:12 (ESV)
 </div>
+
+>>>
++ work of **salvation** is done by **God**
++ "election": **call** out
+  + God's **choice**, autonomy
++ God doesn't **have** to save **anyone**!
++ Eph uses term "predestination":
 
 ---
 He **chose** us in him </br>
@@ -124,9 +139,14 @@ Ephesians 1:4-5 (ESV)
 </div>
 
 >>>
++ "predestined" (προορίσας): **horizon**
+  + set boundary, demarcate
++ for **adoption**: emph **grace**
+  + not: predestined to **choose** Him
 + so if I'm already **chosen**,
   + don't need to **do** anything to be saved?
-+ need to **change** lifestyle, habits?
++ do **whatever** I want, since
+  + his calling is **irrevocable**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-u0vgcIOQG08-forest_road_fork.jpg" -->
@@ -145,24 +165,37 @@ Ezekiel 18:31-32 (ESV)
 
 >>>
 + God **desires** that all may be saved
-+ but we must **turn**:
++ but we must **turn**: habits, **lifestyle**
   + **away** from sin + selfishness
   + **toward** God
++ so does that **contradict** predestination?
 
 ---
-### Q: God **desires** all to be saved, <br/> but **not** all will. **Why**?
-+ **Calvinism**
+### Q: God **desires** all to be saved, <br/> but **not** all will be. **Why**?
++ **Calvinism** (John Calvin, ~1550s)
   + (Reformed, most Baptist, e.g., [John Piper](http://www.desiringgod.org/articles/what-we-believe-about-the-five-points-of-calvinism))
-  + **Limited** *Atonement*: only for the elect
-  + **Irresistable** *Grace*: sovereignty of God
-+ **Arminianism**
+  + *Limited* **Atonement**: only for the elect
+  + *Irresistable* **Grace**: sovereignty of God
++ **Arminianism** (Jacobus Arminius, ~1590s)
   + (Methodist, some Mennonite, e.g., [Keith Drury](http://www.crivoice.org/arminianism.html))
-  + **Resistable** *Grace* ("synergistic")
-  + **Unlimited** *Atonement*: effective to all who believe
+  + *Resistable* **Grace** ("synergistic")
+  + *Unlimited* **Atonement**: effective to all who believe
+
+>>>
++ debate ultimately mostly **semantic**
++ Bible is **clear** on:
+  + God's **sovereign** authority over all
+  + God's **character** desiring to show grace
+  + Man's **response**: repent, follow
 
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# **Why** has God shown **mercy** to me?
+
+>>>
++ before Jacob/Esau had **done** anything
++ God **blessed** me:
+  + I must have done something **right**?
 
 ---
 ## outline: justice / theodicy
