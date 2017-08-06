@@ -456,7 +456,7 @@ Romans 9:23 (ESV)
 
 ---
 <!-- .slide: data-background="white" -->
-# Is it **fair** that **any** are saved?
+# What is my **purpose** on earth?
 
 >>>
 + vessels of **mercy**
