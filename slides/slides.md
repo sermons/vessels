@@ -6,6 +6,7 @@
 + today's topic: **predestination**
   + not **full** resolution
 + whiff of deep **fragrance** in 1 passage
+  + much more in all of ch8-11
 + **attitude** to Scripture:
   + How do I **react** to hard passages
 
@@ -80,8 +81,8 @@ Romans 9:23-24 (ESV) (p.4/4)
 
 >>>
 v11-24: 3 **questions**, 3 **examples**
-1. **predestination**: God's sovereignty
-1. **theodicy**: why allow evil?
+1. **predestination**: does God pre-ordain our destiny?
+1. **theodicy**: why God allows evil?
 1. **autonomy**: do I have freedom to make my own choices?
 
 ---
@@ -196,6 +197,7 @@ Ezekiel 18:31-32 (ESV)
   + "No *pleasure* in the death of anyone ..." <span class="ref">(Ez18:32)</span>
 + Man's **response**: repent + follow
   + "*Turn* and live!" <span class="ref">(Ez18:32, Rom 10:9-10)</span>
+  + &rArr; urgency of evangelism <span class="ref">(Rom 10:13-15)</span>
 
 >>>
 + so do need to share gospel
@@ -375,6 +377,8 @@ Romans 9:19 (ESV)
   + achieving my **dreams**, goals
   + **self**-defined (couch potato)
 + **auto-nomos**: self-law
+______
++ Kant: autonomy as voluntary **submission** to objective moral law
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xEy9QNUCdRI-potter.jpg" -->
@@ -462,11 +466,13 @@ Romans 9:23 (ESV)
 
 ---
 <!-- .slide: data-background="white" -->
-# Can I **choose** my **purpose** and **destiny**?
-# An I ok with that? 
+# Can I choose <br/> my own **purpose** and **destiny**?
+# An I ok with that?
 
 >>>
 + vessels of **mercy**
++ destiny: **chosen** by God before beginning of world
++ purpose: show how **merciful** God is
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
