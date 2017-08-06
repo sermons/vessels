@@ -373,12 +373,11 @@ Romans 9:19 (ESV)
 + Maslow intended **self-actualisation**:
   + realising one's fullest **potential**
   + could be **externally** defined
++ Kant: autonomy as voluntary **submission** to objective moral law
 + but often **misinterpreted** as:
   + achieving my **dreams**, goals
   + **self**-defined (couch potato)
 + **auto-nomos**: self-law
-______
-+ Kant: autonomy as voluntary **submission** to objective moral law
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xEy9QNUCdRI-potter.jpg" -->
@@ -393,8 +392,8 @@ Romans 9:20 (ESV)
 </div>
 
 >>>
-+ **don't** have autonomy to govern
-  + potential defined by **Creator**
++ **no** autonomy to govern self
+  + **Creator** defines potential to be actualized
 + in fact, because of **sin**,
   + **impossible** to be truly free:
 
