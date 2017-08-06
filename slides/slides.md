@@ -198,7 +198,11 @@ Ezekiel 18:31-32 (ESV)
   + I must have done something **right**?
 
 ---
-## outline: justice / theodicy
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
+## Vessels of Mercy <span class="ref">(Rom9)</span>
+1. God's Election: Jacob vs Esau <span class="ref">(v11-13)</span>
+1. **God's Justice**: *Pharaoh* <span class="ref">(v14-18)</span>
+1. God's Mercy: Potter + Clay <span class="ref">(v19-24)</span>
 
 >>>
 + suffering / theodicy: is evil God's fault?
@@ -262,7 +266,11 @@ Exodus 9:15-17 (NIV)
 # Q2
 
 ---
-## outline: mercy
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
+## Vessels of Mercy <span class="ref">(Rom9)</span>
+1. God's Election: Jacob vs Esau <span class="ref">(v11-13)</span>
+1. God's Justice: Pharaoh <span class="ref">(v14-18)</span>
+1. **God's Mercy**: *Potter + Clay* <span class="ref">(v19-24)</span>
 
 >>>
 + define free will:
