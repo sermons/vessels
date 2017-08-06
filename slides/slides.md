@@ -340,19 +340,6 @@ John 8:31-32 (ESV)
 + Rom 10:9-10 confess + believe
 
 ---
-**Choose** this day whom you will serve, [...]
-
-But as for **me and my house**, <br/>
-we will serve the **Lord**.
-
-<div class="ref">
-Joshua 24:15 (ESV)
-</div>
-
->>>
-+ choice
-
----
 You will say to me then, <br/>
 “Why does he still find **fault**?  <br/>
 For who can **resist** his will?”
