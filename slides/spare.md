@@ -31,3 +31,14 @@ John 8:31-32 (ESV)
   + not same as **honesty**
   + not freedom from consequences
 + knowing **God's** truth
+
+---
+But now having been set **free** from **sin**, <br/>
+and having become **slaves** of **God**,
+
+you have your fruit to **holiness**, <br/>
+and the end, everlasting **life**.
+
+<div class="ref">
+Romans 6:20-21 (NKJV)
+</div>

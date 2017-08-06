@@ -409,17 +409,6 @@ Romans 9:22 (ESV)
 </div>
 
 ---
-But now having been set **free** from **sin**, <br/>
-and having become **slaves** of **God**,
-
-you have your fruit to **holiness**, <br/>
-and the end, everlasting **life**.
-
-<div class="ref">
-Romans 6:20-21 (NKJV)
-</div>
-
----
 in order to make known  <br/>
 the **riches** of his glory for **vessels of mercy**,  <br/>
 which he has **prepared** beforehand for glory
