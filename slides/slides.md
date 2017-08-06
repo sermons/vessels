@@ -186,11 +186,11 @@ Ezekiel 18:31-32 (ESV)
 ---
 ## The Bible is clear on:
 + God's sovereign **authority**:
-  + God's purpose of *election* (Rom 9:12)
+  + "God's purpose of *election* ..." <span class="ref">(Rom 9:12)</span>
 + God's **character** desires to show grace:
-  + No *pleasure* in the death of anyone (Ez18:32)
+  + "No *pleasure* in the death of anyone ..." <span class="ref">(Ez18:32)</span>
 + Man's **response**: repent + follow
-  + *Turn* and live (Ez18:32, Rom 10:9-10)
+  + "*Turn* and live!" <span class="ref">(Ez18:32, Rom 10:9-10)</span>
 
 ---
 <!-- .slide: data-background="white" -->
@@ -345,10 +345,10 @@ Romans 9:19 (ESV)
 + don't I have **autonomy** to direct my own life?
 
 ---
-## Self-Actualisation vs. Self-Governance
+## Self-Actualisation <br/> vs. Self-Governance
 
 ![Maslow's Hierarchy](static/img/MaslowsHierarchyOfNeeds.svg)
-<!-- .element: class="stretch" -->
+<!-- .element: style="height:10em" -->
 
 >>>
 + Maslow intended **self-actualisation** to be:
@@ -417,7 +417,8 @@ Romans 9:22 (ESV)
 
 ---
 in order to make known  <br/>
-the **riches** of his glory <br/>
+the **riches** of his glory
+
 for **vessels of mercy**,  <br/>
 which he has **prepared** beforehand for glory
 
@@ -460,7 +461,7 @@ Romans 9:22 (ESV)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
 in order to make known <br/>
-the **riches** of his glory <br/>
+the **riches** of his glory
 
 for **vessels of mercy**,  <br/>
 which he has **prepared** beforehand for glory --
