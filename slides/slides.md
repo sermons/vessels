@@ -84,6 +84,7 @@ Romans 9:23-24 (ESV) (p.4/4)
 1. **autonomy**: do I have freedom to make my own choices?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Medhurst-Jacob_and_Esau.jpg" -->
 Though they were **not yet born** <br/>
 and had **done nothing** either good or bad,
 
@@ -111,6 +112,7 @@ Romans 9:11,13 (ESV)
   + skipped over **v12**:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
 in order that God's **purpose of election** <br/>
 might continue, not because of **works** <br/>
 but because of him who **calls**
@@ -127,6 +129,7 @@ Romans 9:12 (ESV)
 + Eph uses term "predestination":
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/earth.jpg" -->
 He **chose** us in him </br>
 before the **foundation** of the world, that </br>
 we should be **holy** and **blameless** before him.
@@ -217,6 +220,7 @@ Ezekiel 18:31-32 (ESV)
   + that's what v14 asks:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 What shall we say then? <br/>
 Is there **injustice** on God's part?
 
@@ -476,6 +480,5 @@ Romans 9:23-24 (ESV)
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" class="empty" -->
 
 >>>
-+ [Piper](http://www.desiringgod.org/interviews/is-god-sovereign-over-my-free-will)
 + [Theodicy](https://en.wikipedia.org/wiki/Theodicy_and_the_Bible)
 
