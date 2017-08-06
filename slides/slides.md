@@ -375,25 +375,6 @@ Romans 9:20 (ESV)
 + potential defined by **Creator**
 
 ---
-If you **abide** in my word, <br/>
-you are truly my **disciples**,
-
-and you will know the **truth**, <br/>
-and the truth will set you **free**.
-
-<div class="ref">
-John 8:31-32 (ESV)
-</div>
-
->>>
-+ not "don't lie, you'll feel better"
-+ defn of **freedom**:
-  + not same as **honesty**
-  + not freedom from consequences
-+ knowing **God's** truth
-+ slaves to sin (Rom 8? )
-
----
 What if God, desiring to show his **wrath**  <br/>
 and to make known his **power**,
 
