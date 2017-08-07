@@ -461,7 +461,7 @@ Romans 9:23 (ESV)
   + achievement, happiness
   + legacy, change world
 + but: demonstrate how **merciful** God is
-  + **glory** goes to God
+  + **hero** of our story is God
 
 ---
 <!-- .slide: data-background="white" -->
