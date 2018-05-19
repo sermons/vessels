@@ -90,13 +90,13 @@
   "devDependencies": {
     "reveal.js": "^3.6.0",
     "grunt": "^1.0.2",
-    "load-grunt-tasks": "^3.5.2",
+    "load-grunt-tasks": "^4.0.0",
     "grunt-contrib-connect": "^1.0.2",
     "grunt-contrib-copy": "^1.0.0",
     "grunt-sass": "^2.1.0",
     "grunt-exec": "^3.0.0",
     "qrcode": "^1.2.0",
-    "decktape": "^2.8.1"
+    "decktape": "^2.8.3"
   },
   "scripts": {
     "postinstall": "grunt install",
