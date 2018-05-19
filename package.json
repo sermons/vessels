@@ -8,7 +8,7 @@
     "talks",
     "predestination"
   ],
-  "version": "1.6.22",
+  "version": "1.6.23",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "vessels.seanho.com",
@@ -96,7 +96,7 @@
     "grunt-sass": "^2.1.0",
     "grunt-exec": "^3.0.0",
     "qrcode": "^1.2.0",
-    "decktape": "^2.8.3"
+    "decktape": "^2.8.1"
   },
   "scripts": {
     "postinstall": "grunt install",
