@@ -466,9 +466,9 @@ Romans 9:23 (ESV)
 ---
 <!-- .slide: data-background="white" -->
 # Can I choose <br/> my own **purpose** and **destiny**?
-# An I ok with that?
 
 >>>
++ Am I OK with that?
 + vessels of **mercy**
 + destiny: **chosen** by God before beginning of world
 + purpose: show how **merciful** God is
