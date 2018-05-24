@@ -159,13 +159,13 @@ declares the Lord God; so **turn**, and **live**.
 ---
 ### Q: God **desires** all to be saved, <br/> but **not** all will be. **Why**?
 + **Calvinism** (John Calvin, ~1550s)
-  + (Reformed, most Baptist, e.g., [John Piper](http://www.desiringgod.org/articles/what-we-believe-about-the-five-points-of-calvinism))
+  + (Reformed, most Baptist: e.g., [John Piper](http://www.desiringgod.org/articles/what-we-believe-about-the-five-points-of-calvinism))
   + *Limited* **Atonement**: only for the elect
   + *Irresistable* **Grace**: sovereignty of God
 + **Arminianism** (Jacobus Arminius, ~1590s)
-  + (Methodist, some Mennonite, e.g., [Keith Drury](http://www.crivoice.org/arminianism.html))
+  + (Methodist, some Menno: e.g., [Keith Drury](http://www.crivoice.org/arminianism.html))
   + *Resistable* **Grace** ("synergistic")
-  + *Unlimited* **Atonement**: effective to all who believe
+  + *Unlim* **Atonement**: eff. to all who believe
 
 >>>
 + debate ultimately mostly **semantic**
@@ -225,14 +225,14 @@ Is there **injustice** on God's part?
 + Q [(Mackie)](# "ref"):
   If God is *omniscient*, *omnipotent*, and *omni-benevolent*,
   why is there evil?
-+ **Augustine**: evil is from *man's* disobedience
-  + e.g., *Plantinga*'s free will defense:
-  + Omnipotent, but not necc. make *contradictions*
-  + Full human *autonomy* &rArr;&lArr; God's *sovereignty*
-+ **Irenaeus** / Origien: world as *school*
-  + Suffering necessary for human *growth*
-  + e.g., *Swinburne*: free will &rArr; learn from mistakes
-  + but see, e.g., Dostoyevsky, <i>The Brothers Karamazov</i>
+  + **Augustine**: evil is from *man's* disobedience
+    + e.g., *Plantinga*'s free will defense:
+    + Omnipotent: not necc. make *contradictions*
+    + Full *autonomy* &rArr;&lArr; God's *sovereignty*
+  + **Irenaeus** / Origien: world as *school*
+    + Suffering necessary for human *growth*
+    + e.g., *Swinburne*: free will &rArr; learn from mistakes
+    + but see, e.g., Dostoyevsky, <i>The Brothers Karamazov</i>
 
 >>>
 + Problem of Evil (Mackie, 1955)
@@ -284,8 +284,7 @@ You still **set yourself** against my people <br/>
 and will not let them go.
 
 [Exodus 9:15-17 (NIV)](# "ref")
-
-[&copy; 2005 @Hamish2k, CC-BY-SA 3.0](# "ref")
+[&copy; 2005 @Hamish2k, CC-BY-SA 3.0](# "caption")
 
 >>>
 + why **10** plagues in Egypt? 1 enough?
@@ -335,7 +334,7 @@ For who can **resist** his will?”
 + **autonomy** to direct own life?
 
 ---
-## Self-Actualisation <br/> vs. Self-Governance
+## Self-*Actualisation* <br/> vs. Self-*Governance*
 
 ![Maslow's Hierarchy](static/img/MaslowsHierarchyOfNeeds.svg)
 <!-- .element: style="height:10em" -->
