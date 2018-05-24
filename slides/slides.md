@@ -224,15 +224,17 @@ Is there **injustice** on God's part?
 ## Theodicy (Is God Just?)
 + Q [(Mackie)](# "ref"):
   If God is *omniscient*, *omnipotent*, and *omni-benevolent*,
-  why is there evil?
-+ [(Augustine)](# "ref"): evil is from **man's** disobedience
-  + e.g., *Plantinga*'s free will defense:
-  + Omnipotent: not necc. make *contradictions*
+  why is there **evil**?
++ **Man's disobedience** [(e.g., Augustine)](# "ref")
+  + [(Plantinga)](# "ref"): free will defense
+  + Omnipotent, need not make *contradictions*
   + Full *autonomy* &rArr;&lArr; God's *sovereignty*
-+ [(Irenaeus / Origien)](# "ref"): see world as **school**
++ **World is a school** [(e.g., Irenaeus, Origien)](# "ref")
   + Suffering necessary for human *growth*
-  + [(Swinburne)](# "ref"): free will &rArr; learn from mistakes
-+ but see, e.g., <i>The Brothers Karamazov</i> [(Dostoyevsky)](# "ref")
+  + [(Swinburne)](# "ref"): free will &rArr; *learn* from mistakes
+    <br><small> but see, e.g.,
+      <i>The Brothers Karamazov</i> [(Dostoyevsky)](# "ref")
+    </small>
 
 >>>
 + Problem of Evil (Mackie, 1955)
@@ -241,6 +243,8 @@ Is there **injustice** on God's part?
 + **Irenaeus**: "there's always a **purpose**"
   + e.g., lost **keys** &rArr; found $100
   + what about **cancer**? Holocaust? Malicious cruelty?
++ Ivan Karamazov: free will a **curse**, hate God
+  + Alyosha: **Christ** took curse for us
 + evil not a **tool** for good
   + Christ **died**: pay penalty
   + **conquered** sin + death
