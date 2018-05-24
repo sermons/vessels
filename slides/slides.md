@@ -66,7 +66,7 @@ but also from the Gentiles?
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> id="outline" -->
 ## Vessels of Mercy [(Rom9)](# "ref")
-1. God's **Election**: *Jacob vs Esau* [(v11-13)](# "ref")
+1. God's **Election**: *Jacob / Esau* [(v11-13)](# "ref")
 1. God's **Justice**: *Pharaoh* [(v14-18)](# "ref")
 1. God's **Mercy**: *Clay Pot* [(v19-24)](# "ref")
 
@@ -196,7 +196,7 @@ declares the Lord God; so **turn**, and **live**.
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 ## Vessels of Mercy [(Rom9)](# "ref")
-1. God's Election: Jacob vs Esau [(v11-13)](# "ref")
+1. God's Election: Jacob / Esau [(v11-13)](# "ref")
 1. **God's Justice**: *Pharaoh* [(v14-18)](# "ref")
 1. God's Mercy: Clay Pot [(v19-24)](# "ref")
 
@@ -225,14 +225,14 @@ Is there **injustice** on God's part?
 + Q [(Mackie)](# "ref"):
   If God is *omniscient*, *omnipotent*, and *omni-benevolent*,
   why is there evil?
-  + **Augustine**: evil is from *man's* disobedience
-    + e.g., *Plantinga*'s free will defense:
-    + Omnipotent: not necc. make *contradictions*
-    + Full *autonomy* &rArr;&lArr; God's *sovereignty*
-  + **Irenaeus** / Origien: world as *school*
-    + Suffering necessary for human *growth*
-    + e.g., *Swinburne*: free will &rArr; learn from mistakes
-    + but see, e.g., Dostoyevsky, <i>The Brothers Karamazov</i>
++ [(Augustine)](# "ref"): evil is from **man's** disobedience
+  + e.g., *Plantinga*'s free will defense:
+  + Omnipotent: not necc. make *contradictions*
+  + Full *autonomy* &rArr;&lArr; God's *sovereignty*
++ [(Irenaeus / Origien)](# "ref"): see world as **school**
+  + Suffering necessary for human *growth*
+  + [(Swinburne)](# "ref"): free will &rArr; learn from mistakes
++ but see, e.g., <i>The Brothers Karamazov</i> [(Dostoyevsky)](# "ref")
 
 >>>
 + Problem of Evil (Mackie, 1955)
@@ -272,7 +272,7 @@ but of God who shows **mercy**.
 + What He said to wicked **Pharaoh**:
 
 ---
-<!-- .slide <%= bg("Egypt_Giza_Sphinx.jpg") %> -->
+<!-- .slide: <%= bg("Egypt_Giza_Sphinx.jpg") %> -->
 For by now I could have stretched out my hand <br/>
 and [...] **wiped** you off the earth.
 
@@ -306,7 +306,7 @@ and will not let them go.
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 ## Vessels of Mercy [(Rom9)](# "ref")
-1. God's Election: Jacob vs Esau [(v11-13)](# "ref")
+1. God's Election: Jacob / Esau [(v11-13)](# "ref")
 1. God's Justice: Pharaoh [(v14-18)](# "ref")
 1. **God's Mercy**: *Clay Pot* [(v19-24)](# "ref")
 
