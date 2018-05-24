@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> id="title" -->
 # Vessels of Mercy
 ## Romans 9:19-24
 
@@ -64,7 +64,7 @@ but also from the Gentiles?
 [Romans 9:23-24 (ESV) (p.4/4)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg" id="outline" -->
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> id="outline" -->
 ## Vessels of Mercy [(Rom9)](# "ref")
 1. God's **Election**: *Jacob vs Esau* [(v11-13)](# "ref")
 1. God's **Justice**: *Pharaoh* [(v14-18)](# "ref")
@@ -459,5 +459,5 @@ even **us** whom he has **called**?
 [Romans 9:23-24 (ESV)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg" class="empty" -->
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> class="empty" -->
 
