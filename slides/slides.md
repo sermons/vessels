@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 # Vessels of Mercy
 ## Romans 9:19-24
 
@@ -14,8 +14,7 @@
 <!-- .slide: data-background="white" -->
 # Does God **predestine** <br/> who is saved?
 
-[###](#/outline)
-<!-- .element: style="color:rgba(0,0,0,0.2)" -->
+[###](#/outline "secret")
 
 >>>
 + if so, isn't that **unfair**?
@@ -31,9 +30,7 @@ For who can **resist** his will?”
 But who are **you**, O man,  <br/>
 to answer back to **God**?
 
-<div class="ref">
-Romans 9:19-20 (ESV) (p.1/4)
-</div>
+[Romans 9:19-20 (ESV) (p.1/4)](# "ref")
 
 ---
 Will what is **molded** say to its molder,  <br/>
@@ -44,9 +41,7 @@ to make out of the same lump  <br/>
 one **vessel** for **honorable** use  <br/>
 and another for dishonorable use?
 
-<div class="ref">
-Romans 9:20-21 (ESV) (p.2/4)
-</div>
+[Romans 9:20-21 (ESV) (p.2/4)](# "ref")
 
 ---
 What if God, desiring to show his **wrath**  <br/>
@@ -55,9 +50,7 @@ and to make known his **power**,
 has endured with much **patience**  <br/>
 **vessels of wrath** prepared for destruction,
 
-<div class="ref">
-Romans 9:22 (ESV) (p.3/4)
-</div>
+[Romans 9:22 (ESV) (p.3/4)](# "ref")
 
 ---
 in order to make known  <br/>
@@ -68,16 +61,14 @@ even us whom he has **called**,  <br/>
 not from the Jews only  <br/>
 but also from the Gentiles?
 
-<div class="ref">
-Romans 9:23-24 (ESV) (p.4/4)
-</div>
+[Romans 9:23-24 (ESV) (p.4/4)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" id="outline" -->
-## Vessels of Mercy <span class="ref">(Rom9)</span>
-1. God's **Election**: *Jacob vs Esau* <span class="ref">(v11-13)</span>
-1. God's **Justice**: *Pharaoh* <span class="ref">(v14-18)</span>
-1. God's **Mercy**: *Clay Pot* <span class="ref">(v19-24)</span>
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg" id="outline" -->
+## Vessels of Mercy [(Rom9)](# "ref")
+1. God's **Election**: *Jacob vs Esau* [(v11-13)](# "ref")
+1. God's **Justice**: *Pharaoh* [(v14-18)](# "ref")
+1. God's **Mercy**: *Clay Pot* [(v19-24)](# "ref")
 
 >>>
 v11-24: 3 **questions**, 3 **examples**
@@ -86,7 +77,7 @@ v11-24: 3 **questions**, 3 **examples**
 1. **autonomy**: do I have freedom to make my own choices?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Medhurst-Jacob_and_Esau.jpg" -->
+<!-- .slide: <%= bg("Medhurst-Jacob_and_Esau.jpg") %> -->
 Though they were **not yet born** <br/>
 and had **done nothing** either good or bad,
 
@@ -96,13 +87,9 @@ and had **done nothing** either good or bad,
 As it is written, <br/>
 “Jacob I **loved**, but Esau I **hated**.”
 
-<div class="ref">
-Romans 9:11,13 (ESV)
-</div>
+[Romans 9:11,13 (ESV)](# "ref")
 
-<div class="caption">
-(img: <i>Jacob and Esau</i>, Phillip Medhurst Bible 131.  Kidderminster, England)
-</div>
+[<i>Jacob and Esau</i>, Phillip Medhurst Bible 131. <br> Kidderminster, England](# "caption")
 
 >>>
 + subseq **nations**: Israel vs Edom
@@ -115,14 +102,12 @@ Romans 9:11,13 (ESV)
 + **why** God mentioned this? **v12**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
+<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 in order that God's **purpose of election** <br/>
 might continue, not because of **works** <br/>
 but because of him who **calls**
 
-<div class="ref">
-Romans 9:12 (ESV)
-</div>
+[Romans 9:12 (ESV)](# "ref")
 
 >>>
 + work of **salvation** is done by **God**
@@ -132,7 +117,7 @@ Romans 9:12 (ESV)
 + Eph uses term "predestination":
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/earth.jpg" -->
+<!-- .slide: <%= bg("earth.jpg") %> -->
 He **chose** us in him </br>
 before the **foundation** of the world, that </br>
 we should be **holy** and **blameless** before him.
@@ -140,9 +125,7 @@ we should be **holy** and **blameless** before him.
 In love he **predestined** us for **adoption** </br>
 to himself as sons through Jesus Christ
 
-<div class="ref">
-Ephesians 1:4-5 (ESV)
-</div>
+[Ephesians 1:4-5 (ESV)](# "ref")
 
 >>>
 + "predestined" (προορίσας): **horizon**
@@ -154,7 +137,7 @@ Ephesians 1:4-5 (ESV)
   + his calling is **irrevocable**?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-u0vgcIOQG08-forest_road_fork.jpg" -->
+<!-- .slide: <%= bg("unsplash-u0vgcIOQG08-forest_road_fork.jpg") %> -->
 **Cast away** from you all the **transgressions** <br/>
 that you have committed, <br/>
 and make yourselves a **new heart** <br/>
@@ -164,9 +147,7 @@ and a **new spirit**!
 For I have **no pleasure** in the death of anyone, <br/>
 declares the Lord God; so **turn**, and **live**.
 
-<div class="ref">
-Ezekiel 18:31-32 (ESV)
-</div>
+[Ezekiel 18:31-32 (ESV)](# "ref")
 
 >>>
 + God **desires** that all may be saved
@@ -192,12 +173,12 @@ Ezekiel 18:31-32 (ESV)
 ---
 ## The Bible is clear on:
 + God's sovereign **authority**:
-  + "God's purpose of *election* ..." <span class="ref">(Rom 9:12)</span>
+  + "God's purpose of *election* ..." [(Rom 9:12)](# "ref")
 + God's **character** desires to show grace:
-  + "No *pleasure* in the death of anyone ..." <span class="ref">(Ez18:32)</span>
+  + "No *pleasure* in the death of anyone ..." [(Ez18:32)](# "ref")
 + Man's **response**: repent + follow
-  + "*Turn* and live!" <span class="ref">(Ez18:32, Rom 10:9-10)</span>
-  + &rArr; urgency of evangelism <span class="ref">(Rom 10:13-15)</span>
+  + "*Turn* and live!" [(Ez18:32, Rom 10:9-10)](# "ref")
+  + &rArr; urgency of evangelism [(Rom 10:13-15)](# "ref")
 
 >>>
 + so do need to share gospel
@@ -213,11 +194,11 @@ Ezekiel 18:31-32 (ESV)
   + Nope!
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
-## Vessels of Mercy <span class="ref">(Rom9)</span>
-1. God's Election: Jacob vs Esau <span class="ref">(v11-13)</span>
-1. **God's Justice**: *Pharaoh* <span class="ref">(v14-18)</span>
-1. God's Mercy: Clay Pot <span class="ref">(v19-24)</span>
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
+## Vessels of Mercy [(Rom9)](# "ref")
+1. God's Election: Jacob vs Esau [(v11-13)](# "ref")
+1. **God's Justice**: *Pharaoh* [(v14-18)](# "ref")
+1. God's Mercy: Clay Pot [(v19-24)](# "ref")
 
 >>>
 + so God **predestined** us
@@ -228,13 +209,11 @@ Ezekiel 18:31-32 (ESV)
   + that's what v14 asks:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 What shall we say then? <br/>
 Is there **injustice** on God's part?
 
-<div class="ref">
-Romans 9:14 (ESV)
-</div>
+[Romans 9:14 (ESV)](# "ref")
 
 >>>
 + **theodicy**: is God just?
@@ -243,7 +222,7 @@ Romans 9:14 (ESV)
 
 ---
 ## Theodicy (Is God Just?)
-+ Q <span class="ref">(Mackie)</span>:
++ Q [(Mackie)](# "ref"):
   If God is *omniscient*, *omnipotent*, and *omni-benevolent*,
   why is there evil?
 + **Augustine**: evil is from *man's* disobedience
@@ -268,7 +247,7 @@ Romans 9:14 (ESV)
 + is it **unfair** that God saves one and not another?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 Certainly not! For He says to Moses,
 
 “I will have **mercy** on whomever I will have mercy,
@@ -279,9 +258,7 @@ So then it is not of him who **wills**,
 nor of him who **runs**,
 but of God who shows **mercy**.
 
-<div class="ref">
-Romans 9:15-16 (NKJV)
-</div>
+[Romans 9:15-16 (NKJV)](# "ref")
 
 >>>
 + we assume **most** people are good
@@ -295,7 +272,7 @@ Romans 9:15-16 (NKJV)
 + What He said to wicked **Pharaoh**:
 
 ---
-<!-- .slide data-background-image="https://sermons.seanho.com/img/bg/Egypt_Giza_Sphinx.jpg" -->
+<!-- .slide <%= bg("Egypt_Giza_Sphinx.jpg") %> -->
 For by now I could have stretched out my hand <br/>
 and [...] **wiped** you off the earth.
 
@@ -306,13 +283,9 @@ my **name** might be proclaimed in all the earth.
 You still **set yourself** against my people <br/>
 and will not let them go.
 
-<div class="ref">
-Exodus 9:15-17 (NIV)
-</div>
+[Exodus 9:15-17 (NIV)](# "ref")
 
-<div class="caption">
-(img: &copy; 2005 @Hamish2k, CC-BY-SA 3.0)
-</div>
+[&copy; 2005 @Hamish2k, CC-BY-SA 3.0](# "ref")
 
 >>>
 + why **10** plagues in Egypt? 1 enough?
@@ -332,11 +305,11 @@ Exodus 9:15-17 (NIV)
 + Further reading: Hab, Job
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
-## Vessels of Mercy <span class="ref">(Rom9)</span>
-1. God's Election: Jacob vs Esau <span class="ref">(v11-13)</span>
-1. God's Justice: Pharaoh <span class="ref">(v14-18)</span>
-1. **God's Mercy**: *Clay Pot* <span class="ref">(v19-24)</span>
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
+## Vessels of Mercy [(Rom9)](# "ref")
+1. God's Election: Jacob vs Esau [(v11-13)](# "ref")
+1. God's Justice: Pharaoh [(v14-18)](# "ref")
+1. **God's Mercy**: *Clay Pot* [(v19-24)](# "ref")
 
 >>>
 + predestination: God **chose** us
@@ -348,14 +321,12 @@ Exodus 9:15-17 (NIV)
   + what is **free will**? &rArr; v19:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> -->
 You will say to me then, <br/>
 “Why does he still find **fault**?  <br/>
 For who can **resist** his will?”
 
-<div class="ref">
-Romans 9:19 (ESV)
-</div>
+[Romans 9:19 (ESV)](# "ref")
 
 >>>
 + not the one who **wills** or **runs**
@@ -380,16 +351,14 @@ Romans 9:19 (ESV)
 + **auto-nomos**: self-law
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xEy9QNUCdRI-potter.jpg" -->
+<!-- .slide: <%= bg("unsplash-xEy9QNUCdRI-potter.jpg") %> -->
 But who are **you**, O man,  <br/>
 to answer back to **God**?
 
 Will what is **molded** say to its molder,  <br/>
 “**Why** have you made me like this?”
 
-<div class="ref">
-Romans 9:20 (ESV)
-</div>
+[Romans 9:20 (ESV)](# "ref")
 
 >>>
 + **no** autonomy to govern self
@@ -398,7 +367,7 @@ Romans 9:20 (ESV)
   + **impossible** to be truly free:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
+<!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> -->
 For when you were **slaves** of **sin**, <br/>
 you were **free** in regard to **righteousness**.
 
@@ -406,9 +375,7 @@ What **fruit** did you have then <br/>
 in the things of which you are now **ashamed**? <br/>
 For the end of those things is **death**.
 
-<div class="ref">
-Romans 6:20-21 (NKJV)
-</div>
+[Romans 6:20-21 (NKJV)](# "ref")
 
 >>>
 + not "free will" as choosing to lift a **pen**
@@ -423,13 +390,11 @@ Romans 6:20-21 (NKJV)
 + this is **default** state of mankind:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ndsRLeQBlsA-dark_clouds.jpg" -->
+<!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
 [God] has endured with much **patience**  <br/>
 **vessels of wrath** prepared for destruction,
 
-<div class="ref">
-Romans 9:22 (ESV)
-</div>
+[Romans 9:22 (ESV)](# "ref")
 
 >>>
 + just as with **Pharaoh**
@@ -439,16 +404,14 @@ Romans 9:22 (ESV)
 + but God **withholds** for a time: why?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-iQWvVYMtv1k-hands.jpg" -->
+<!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
 in order to make known  <br/>
 the **riches** of his glory
 
 for **vessels of mercy**,  <br/>
 which he has **prepared** beforehand for glory
 
-<div class="ref">
-Romans 9:23 (ESV)
-</div>
+[Romans 9:23 (ESV)](# "ref")
 
 >>>
 + to highlight that we are saved
@@ -474,19 +437,17 @@ Romans 9:23 (ESV)
 + purpose: show how **merciful** God is
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 What if God, desiring to show his **wrath**  <br/>
 and to make known his **power**,
 
 has endured with much **patience**  <br/>
 **vessels of wrath** prepared for destruction,
 
-<div class="ref">
-Romans 9:22 (ESV)
-</div>
+[Romans 9:22 (ESV)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 in order to make known <br/>
 the **riches** of his glory
 
@@ -495,10 +456,8 @@ which he has **prepared** beforehand for glory --
 
 even **us** whom he has **called**?
 
-<div class="ref">
-Romans 9:23-24 (ESV)
-</div>
+[Romans 9:23-24 (ESV)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" class="empty" -->
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg" class="empty" -->
 
