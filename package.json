@@ -23,10 +23,16 @@
     },
     "history": [
       {
+        "venue": "Pacific Grace Mandarin Church",
+        "city": "Vancouver",
+        "date": "2018-05-27",
+        "duration": 42
+      },
+      {
         "venue": "Lord's Love Church",
         "city": "Vancouver",
         "date": "2017-08-06",
-        "duration": 42
+        "duration": 0
       },
       {
         "venue": "First Chinese NA Baptist Church",
