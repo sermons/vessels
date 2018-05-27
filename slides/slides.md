@@ -73,7 +73,7 @@ but also from the Gentiles?
 >>>
 v11-24: 3 **questions**, 3 **examples**
 1. **predestination**: does God pre-ordain our destiny?
-1. **theodicy**: why God allows evil?
+1. **theodicy**: why does God allow evil?
 1. **autonomy**: do I have freedom to make my own choices?
 
 ---
@@ -97,8 +97,8 @@ As it is written, <br/>
 + "hated": just "love **less**", skip over?
   + **opposition**, enemy, reject
 + **fair**? (theodicy, pt2) **justice**
-  + based on indiv **choice** / action
-  + **blessed** &rArr; must've **done** sth
+  + assume bc indiv **choice** / action:
+  + **blessed** &rArr; must've **done** sth? 
 + **why** God mentioned this? **v12**:
 
 ---
@@ -172,13 +172,13 @@ declares the Lord God; so **turn**, and **live**.
 
 ---
 ## The Bible is clear on:
-+ God's sovereign **authority**:
++ God is sovereign in His **authority**:
   + "God's purpose of *election* ..." [(Rom 9:12)](# "ref")
 + God's **character** desires to show grace:
-  + "No *pleasure* in the death of anyone ..." [(Ez18:32)](# "ref")
-+ Man's **response**: repent + follow
+  + "No *pleasure* in death of any ..." [(Ez18:32)](# "ref")
++ Man must **respond**: repent + follow
   + "*Turn* and live!" [(Ez18:32, Rom 10:9-10)](# "ref")
-  + &rArr; urgency of evangelism [(Rom 10:13-15)](# "ref")
+  + &rArr; *urgency* of evangelism [(Rom 10:13-15)](# "ref")
 
 >>>
 + so do need to share gospel
@@ -204,7 +204,7 @@ declares the Lord God; so **turn**, and **live**.
 + so God **predestined** us
 + chose to **love** one and **hate** another
   + even before **birth**
-  + God looks at **babies**: Y/N/N/Y/N?
+  + does God look at **babies**: Y/N/Y/N?
 + &rArr; that doesn't sound **fair**?
   + that's what v14 asks:
 
@@ -243,7 +243,7 @@ Is there **injustice** on God's part?
 + **Irenaeus**: "there's always a **purpose**"
   + e.g., lost **keys** &rArr; found $100
   + what about **cancer**? Holocaust? Malicious cruelty?
-+ Ivan Karamazov: free will a **curse**, hate God
++ Ivan Karamazov: free will a **curse**, so hates God
   + Alyosha: **Christ** took curse for us
 + evil not a **tool** for good
   + Christ **died**: pay penalty
@@ -271,7 +271,7 @@ but of God who shows **mercy**.
 + but because of God's perfect **holiness**
   + and our utter **depravity**,
   + lust for **autonomy** from Him
-+ so God's **justice** would be hell
++ &rArr; God's **justice** would be hell
   + that we **live** + breathe is His mercy
 + What He said to wicked **Pharaoh**:
 
@@ -318,7 +318,7 @@ and will not let them go.
 + predestination: God **chose** us
   + not bc anything we've **done**
 + theodicy: **evil** exists bc **man's** sin
-  + God's **just** wrath
+  + God's **just** wrath is
   + held back by His **mercy**
 + autonomy: **free**, make own choices?
   + what is **free will**? &rArr; v19:
