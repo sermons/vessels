@@ -3,12 +3,10 @@
 ## Romans 9:19-24
 
 >>>
-+ today's topic: **predestination**
-  + not **full** resolution
++ topical: common **question** among young people
 + whiff of deep **fragrance** in 1 passage
-  + much more in all of ch8-11
-+ **attitude** to Scripture:
-  + How do I **react** to hard passages
+  + starting from **v11**
+  + much more in all of **ch8-11**
 
 ---
 <!-- .slide: data-background="white" -->
@@ -21,6 +19,8 @@
   + **freedom** to make own choices?
 + if my **loved one** is unrepentant
   + isn't that all **God's fault**?
++ **attitude** to Scripture:
+  + How do I **react** to hard passages
 
 ---
 You will say to me then, <br/>
@@ -181,17 +181,17 @@ declares the Lord God; so **turn**, and **live**.
   + &rArr; *urgency* of evangelism [(Rom 10:13-15)](# "ref")
 
 >>>
-+ so do need to share gospel
++ so do need to share **gospel**
 
 ---
 <!-- .slide: data-background="white" -->
 # **Why** has God shown **mercy** <br/> to me?
 
 >>>
-+ before Jacob/Esau **did** anything
 + God loves me, **blessed** me:
   + I must have **done** sth right?
   + Nope!
++ before Jacob/Esau **did** anything
 
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->

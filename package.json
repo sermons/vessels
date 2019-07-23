@@ -23,10 +23,22 @@
     },
     "history": [
       {
+        "venue": "Bethel Chinese Christian MB Church",
+        "city": "Vancouver",
+        "date": "2019-07-28",
+        "duration": 0
+      },
+      {
+        "venue": "Richmond Pacific Grace MB Church",
+        "city": "Richmond",
+        "date": "2019-02-24",
+        "duration": 49
+      },
+      {
         "venue": "Christ Church of China",
         "city": "Coquitlam",
         "date": "2019-02-10",
-        "duration": 0
+        "duration": 52
       },
       {
         "venue": "North Shore Pacific Grace MB Church",
