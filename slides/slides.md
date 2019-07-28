@@ -155,7 +155,9 @@ declares the Lord God; so **turn**, and **live**.
 + **contradicts** predestination?
 
 ---
+<!-- .slide: style="font-size: 90%" -->
 ### Q: God **desires** all to be saved, <br/> but **not** all will be. **Why**?
+
 + **Calvinism** (John Calvin, ~1550s)
   + (Reformed, most Baptist: e.g., [John Piper](http://www.desiringgod.org/articles/what-we-believe-about-the-five-points-of-calvinism))
   + *Limited* **Atonement**: only for the elect
@@ -219,6 +221,7 @@ Is there **injustice** on God's part?
 + why allow **sin** / evil / suffering in the first place?
 
 ---
+<!-- .slide: style="font-size: 90%" -->
 ## Theodicy (Is God Just?)
 + Q [(Mackie)](# "ref"):
   If God is *omniscient*, *omnipotent*, and *omni-benevolent*,
