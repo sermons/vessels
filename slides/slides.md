@@ -12,8 +12,6 @@
 <!-- .slide: data-background="white" -->
 # Does God **predestine** <br/> who is saved?
 
-[###](#/outline "secret")
-
 >>>
 + if so, isn't that **unfair**?
   + **freedom** to make own choices?
@@ -22,7 +20,7 @@
 + **attitude** to Scripture:
   + How do I **react** to hard passages
 
----
+******
 You will say to me then, <br/>
 “Why does he still find **fault**?  <br/>
 For who can **resist** his will?”
@@ -32,7 +30,7 @@ to answer back to **God**?
 
 [Romans 9:19-20 (ESV) (p.1/4)](# "ref")
 
----
+******
 Will what is **molded** say to its molder,  <br/>
 “**Why** have you made me like this?”
 
@@ -43,7 +41,7 @@ and another for dishonorable use?
 
 [Romans 9:20-21 (ESV) (p.2/4)](# "ref")
 
----
+******
 What if God, desiring to show his **wrath**  <br/>
 and to make known his **power**,
 
@@ -52,7 +50,7 @@ has endured with much **patience**  <br/>
 
 [Romans 9:22 (ESV) (p.3/4)](# "ref")
 
----
+******
 in order to make known  <br/>
 the riches of his glory for **vessels of mercy**,  <br/>
 which he has **prepared** beforehand for glory —
@@ -157,7 +155,9 @@ declares the Lord God; so **turn**, and **live**.
 + **contradicts** predestination?
 
 ---
+<!-- .slide: style="font-size: 90%" -->
 ### Q: God **desires** all to be saved, <br/> but **not** all will be. **Why**?
+
 + **Calvinism** (John Calvin, ~1550s)
   + (Reformed, most Baptist: e.g., [John Piper](http://www.desiringgod.org/articles/what-we-believe-about-the-five-points-of-calvinism))
   + *Limited* **Atonement**: only for the elect
@@ -221,6 +221,7 @@ Is there **injustice** on God's part?
 + why allow **sin** / evil / suffering in the first place?
 
 ---
+<!-- .slide: style="font-size: 90%" -->
 ## Theodicy (Is God Just?)
 + Q [(Mackie)](# "ref"):
   If God is *omniscient*, *omnipotent*, and *omni-benevolent*,
