@@ -7,7 +7,7 @@
     "predestination",
     "romans"
   ],
-  "version": "1.7.4",
+  "version": "1.7.6",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "vessels.seanho.com",
@@ -123,11 +123,11 @@
     "load-grunt-tasks": "^5.1.0",
     "grunt-contrib-connect": "^2.1.0",
     "grunt-contrib-copy": "^1.0.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "grunt-sass": "^3.1.0",
     "grunt-exec": "^3.0.0",
     "qrcode": "^1.4.4",
-    "decktape": "^2.10.0"
+    "decktape": "^2.11.0"
   },
   "scripts": {
     "postinstall": "grunt install",
