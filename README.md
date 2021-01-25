@@ -1,7 +1,7 @@
 # Vessels of Mercy
 ## Romans 9:19-24
 
-[![Build status](https://api.travis-ci.org/sermons/vessels.svg)](https://travis-ci.org/github/sermons/vessels)
+[![Build status](https://api.travis-ci.com/sermons/vessels.svg)](https://travis-ci.com/github/sermons/vessels)
 [![Node deps](https://david-dm.org/sermons/vessels.svg)](https://david-dm.org/sermons/vessels)
 [![Node devDeps](https://david-dm.org/sermons/vessels/dev-status.svg)](https://david-dm.org/sermons/vessels?type=dev)
 
