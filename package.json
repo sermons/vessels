@@ -7,7 +7,7 @@
     "predestination",
     "romans"
   ],
-  "version": "2.5.4",
+  "version": "2.5.5",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "",
@@ -112,7 +112,7 @@
   "private": true,
   "dependencies": {
     "highlight.js": "^10.7.2",
-    "reveal.js": "^4.1.1",
+    "reveal.js": "^4.1.3",
     "socket.io-client": "^4.1.2"
   },
   "devDependencies": {
@@ -125,7 +125,7 @@
     "grunt-sass": "^3.1.0",
     "ini": "^2.0.0",
     "load-grunt-tasks": "^5.1.0",
-    "node-sass": "^6.0.0",
+    "node-sass": "^6.0.1",
     "qrcode": "^1.4.4"
   },
   "scripts": {
