@@ -341,7 +341,7 @@ For who can **resist** his will?”
 ---
 ## Self-*Actualisation* <br/> vs. Self-*Governance*
 
-![Maslow's Hierarchy](static/img/MaslowsHierarchyOfNeeds.svg)
+![Maslow's Hierarchy](img/MaslowsHierarchyOfNeeds.svg)
 <!-- .element: style="height:10em" -->
 
 >>>
