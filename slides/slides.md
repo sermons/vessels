@@ -11,6 +11,7 @@
 ---
 <!-- .slide: data-background="white" -->
 # Does God **predestine** <br/> who is saved?
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + if so, isn't that **unfair**?
@@ -19,47 +20,6 @@
   + isn't that all **God's fault**?
 + **attitude** to Scripture:
   + How do I **react** to hard passages
-
-******
-You will say to me then, <br/>
-“Why does he still find **fault**?  <br/>
-For who can **resist** his will?”
-
-But who are **you**, O man,  <br/>
-to answer back to **God**?
-
-[Romans 9:19-20 (ESV) (p.1/4)](# "ref")
-
-******
-Will what is **molded** say to its molder,  <br/>
-“**Why** have you made me like this?”
-
-Has the **potter** no right over the clay,  <br/>
-to make out of the same lump  <br/>
-one **vessel** for **honorable** use  <br/>
-and another for dishonorable use?
-
-[Romans 9:20-21 (ESV) (p.2/4)](# "ref")
-
-******
-What if God, desiring to show his **wrath**  <br/>
-and to make known his **power**,
-
-has endured with much **patience**  <br/>
-**vessels of wrath** prepared for destruction,
-
-[Romans 9:22 (ESV) (p.3/4)](# "ref")
-
-******
-in order to make known  <br/>
-the riches of his glory for **vessels of mercy**,  <br/>
-which he has **prepared** beforehand for glory —
-
-even us whom he has **called**,  <br/>
-not from the Jews only  <br/>
-but also from the Gentiles?
-
-[Romans 9:23-24 (ESV) (p.4/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> id="outline" -->
@@ -185,7 +145,8 @@ declares the Lord God; so **turn**, and **live**.
 
 ---
 <!-- .slide: data-background="white" -->
-# **Why** has God shown **mercy** <br/> to me?
+# **Why** has God <br/> shown **mercy** to me?
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + God loves me, **blessed** me:
@@ -302,7 +263,8 @@ and will not let them go.
 
 ---
 <!-- .slide: data-background="white" -->
-# Why does God allow **evil** to flourish?
+# Why does God allow <br/> **evil** to flourish?
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + Why **harden** Pharaoh's heart?
@@ -432,7 +394,8 @@ which he has **prepared** beforehand for glory
 
 ---
 <!-- .slide: data-background="white" -->
-# Can I choose <br/> my own **purpose** and **destiny**?
+# Can I choose my own <br/> **purpose** and **destiny**?
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + Am I OK with that?
